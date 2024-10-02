@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: 'Seeds of Alternative'
+title: 'Seeds of Alternative'
+description: 'Jekyll template, Medium styled, free for bloggers.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -10,6 +10,11 @@ baseurl: ''
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+# domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
 
 # Authors
 authors:
