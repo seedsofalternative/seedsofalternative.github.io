@@ -1,7 +1,7 @@
 # Site
 name: 'Seeds of Alternative'
 title: 'Seeds of Alternative'
-description: 'Jekyll template, Medium styled, free for bloggers.'
+description: 'A blog about alternative ideas.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -72,6 +72,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
