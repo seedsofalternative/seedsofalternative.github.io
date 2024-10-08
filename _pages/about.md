@@ -10,7 +10,7 @@ comments: false
 
 <p>Welcome to Seeds of Alternative !
 
-This blog seeks to share and promote alternative ideas -- valuable knowledge that can enhance our lives, yet often remains inaccessible. Whether by intentionally or not, our education system rarely distributes these ideas. The goal here is to spread insights about the world as we know it, planting the seeds of an alternative vision for modern human society.
+This blog seeks to share and promote alternative ideas -- valuable knowledge that can enhance our lives, yet often remains inaccessible. Whether intentionally or not, our education system rarely distributes these ideas. The goal here is to spread insights about the world as we know it, planting the seeds of an alternative vision for modern human society.
 </p>
 
 </div>

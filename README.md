@@ -1,3 +1,3 @@
 # Seeds of Alternative
 
-[http://seedsofalternative.com/](http://seedsofalternative.com/)
+[https://seedsofalternative.com/](https://seedsofalternative.com/)
