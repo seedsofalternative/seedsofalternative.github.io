@@ -3,7 +3,7 @@ layout: post
 title:  "Famous Buddhist Teachers"
 author: sal
 categories: [ buddhism ]
-image: assets/images/nagarjuna.webp
+image: assets/images/buddhist_teachers/nagarjuna.webp
 ---
 
 
@@ -13,124 +13,177 @@ When I first discovered the Buddhist world, I was confused about all the persona
 
 # Ancient teachers
 
-| | |
-|----------|-------------:|
-| ![buddha]({{ site.baseurl }}/assets/images/buddha.jpeg)  |    **Buddha (6th century BCE)**  <br> Enlightened teacher, taught the path to enlightenment, also known as Siddhartha Gautama or Shakyamuni.  |
-![nagarjuna]({{ site.baseurl }}/assets/images/nagarjuna.webp) | **Nāgārjuna (1st and 2nd century)** <br> Indian monk and Mahāyāna Buddhist philosopher of the Madhyamaka school.    |
+#### Buddha (6<sup>th</sup> century BCE)
 
+Enlightened teacher, taught the path to enlightenment, also known as Siddhartha Gautama or Shakyamuni.
+![buddha]({{ site.baseurl }}/assets/images/buddhist_teachers/buddha.jpeg)
 
+#### Nāgārjuna (1<sup>st</sup> and 2<sup>nd</sup> century)
 
-**Chandrakirti (7th century)**
+Indian monk and Mahāyāna Buddhist philosopher of the Madhyamaka school.
+![nagarjuna]({{ site.baseurl }}/assets/images/buddhist_teachers/nagarjuna.webp)
+
+#### Chandrakirti (7<sup>th</sup> century)
 
 Buddhist scholar of the Madhyamaka school and a noted commentator on the works of Nagarjuna.
 
-**Shantideva** **(8th century)**
+![Chandrakirti]({{ site.baseurl }}/assets/images/buddhist_teachers/chandrakriti.webp)
 
-Indian philosopher, Buddhist monk, poet, and scholar, adherent of the Mādhyamaka philosophy
+#### Shantideva (8<sup>th</sup> century)
 
-**Guru Rinpoche, Padmasambhava (8th century)**
+Indian philosopher, Buddhist monk, poet, scholar at Nālandā Monastic University, adherent of the Mādhyamaka philosophy. He is known for writting <i>A Guide to the Bodhisattva's Way of Life.</i>
+![shantideva]({{ site.baseurl }}/assets/images/buddhist_teachers/shantideva.webp)
 
-Indian Buddhist mystic who introduced Tantric Buddhism to Tibet and established the first Buddhist monastery there. Famous for teaching on emptiness.
+#### Guru Rinpoche, Padmasambhava (8<sup>th</sup> century)
 
-**Milarepa (1052 - 1135)**
+Indian Buddhist mystic who introduced Tantric Buddhism to Tibet and established the first Buddhist monastery there. Famous for his teachings on emptiness.
+![Padmasambhava]({{ site.baseurl }}/assets/images/buddhist_teachers/Padmasambhava.webp)
 
-Famous poet and spiritual teacher in the Tibetan Buddhist tradition, master of the Kagyu tradition
+#### Milarepa (1052 - 1135)
 
-**Lama Tsongkhapa (1357 - 1419)**
+Famous poet and spiritual teacher in the Tibetan Buddhist tradition, master of the Kagyu tradition.
+![milarepa]({{ site.baseurl }}/assets/images/buddhist_teachers/milarepa.webp)
+
+#### Lama Tsongkhapa (1357 - 1419)
 
 Tibetan Buddhist monk, philosopher and tantric yogi, whose activities led to the formation of the Gelug school of Tibetan Buddhism. He wrote the Lam Rim.
+![Tsongkhapa]({{ site.baseurl }}/assets/images/buddhist_teachers/Tsongkhapa.webp)
 
-**Changkya Rölpé Dorjé (1717 - 1786)** 
+#### Changkya Rölpé Dorjé (1717 - 1786)
 
 Tibetan Buddhist teacher in the Qing court.
+![Changkya]({{ site.baseurl }}/assets/images/buddhist_teachers/Changkya.webp)
 
 # Modern teachers
 
-**Ledi Sayadaw (1846 – 1923)**
+#### Ledi Sayadaw (1846 – 1923)
 
 Burmese monk who revived and transmitted the practice of Vipassana.
 
-**Saya Thetgyi (1873 – 1945)**
+![ledi-sayadaw]({{ site.baseurl }}/assets/images/buddhist_teachers/ledi-sayadaw.jpg)
+
+#### Saya Thetgyi (1873 – 1945)
 Ledi Sayadaw's student.
 
-**Webu Sayadaw (1896 - 1977)**
+![sayatet_small]({{ site.baseurl }}/assets/images/buddhist_teachers/sayatet_small.jpg)
+
+#### Webu Sayadaw (1896 - 1977)
 Saya Thetgyi's student.
 
-**Sayagyi U Ba Khin (1899 - 1971)**
+![webu-sayadaw]({{ site.baseurl }}/assets/images/buddhist_teachers/webu-sayadaw.jpg)
 
-Burmese teacher of Vipassana meditation, Webu Sayadaw’s student, ****and Goenka’s teacher
+#### Sayagyi U Ba Khin (1899 - 1971)
 
-**S.N. Goenka (1924 - 2013)**
+Burmese teacher of Vipassana meditation, Webu Sayadaw's student, and Goenka's teacher.
 
-Indian teacher of Vipassana meditation
+![Sayagyi-u-Ba-Khin-1]({{ site.baseurl }}/assets/images/buddhist_teachers/Sayagyi-u-Ba-Khin-1.jpg)
 
-**William Hart**
+#### S.N. Goenka (1924 - 2013)
+
+Indian teacher of Vipassana meditation.
+
+![goenka]({{ site.baseurl }}/assets/images/buddhist_teachers/goenka.jpg)
+
+#### William Hart
 
 One of the first assistant teachers appointed by S.N. Goenka.
 
-**Thich Nhat Hanh (1926 – 2022)**
+#### Thich Nhat Hanh (1926 – 2022)
 
-Vietnamese buddhist monk, father of mindfulness and Zen buddhism, founded the Plum village in France
+Vietnamese buddhist monk, father of mindfulness and Zen buddhism, founded the Plum village in France.
 
-**Lama Yeshe (1935 - 1984)**
+![thich_nhat_hanh]({{ site.baseurl }}/assets/images/buddhist_teachers/thich_nhat_hanh.jpg)
 
-Co-founder of Kopan monastery and FPMT
+#### His Holiness the 14th Dalai Lama (1935 - present)
 
-**Lama Zopa Rinpoche (1945 – 2023)**
+Spiritual leader of Tibetan Buddhism.
 
-Co-founder of Kopan monastery and FPMT
+![dalailama_ap]({{ site.baseurl }}/assets/images/buddhist_teachers/dalailama_ap.jpg)
 
-**Pema Chödrön (1936 - present)**
+#### Lama Yeshe (1935 - 1984)
+
+Co-founder of Kopan monastery and FPMT.
+
+![Lama-Yeshe]({{ site.baseurl }}/assets/images/buddhist_teachers/Lama-Yeshe.webp)
+
+#### Lama Zopa Rinpoche (1945 – 2023)
+
+Co-founder of Kopan monastery and FPMT.
+
+![lama_zopa]({{ site.baseurl }}/assets/images/buddhist_teachers/lama_zopa.jpg)
+
+#### Pema Chödrön (1936 - present)
 
 American-born Tibetan Buddhist nun, disciple of Chögyam Trungpa.
 
-**Chögyam Trungpa (1939 - 1987)**
+![pema_chodron]({{ site.baseurl }}/assets/images/buddhist_teachers/pema_chodron.png)
+
+#### Chögyam Trungpa (1939 - 1987)
 
 Tibetan Buddist meditation master, founder of Shambhala buddhism, holder of both Kagyu and Nyingma lineages of Tibetan Buddhism.
 
-**Tenzin Palmo (1943 - present)**
+![Chögyam_Trungpa]({{ site.baseurl }}/assets/images/buddhist_teachers/Chögyam_Trungpa.jpeg)
 
-English born nun, best known for having spent twelve years living in a remote cave in the Himalayas, three of those years in strict meditation retreat
+#### Tenzin Palmo (1943 - present)
 
-**Thubten Chödrön (1950 - present)**
+English-born nun, best known for having spent twelve years living in a remote cave in the Himalayas, three of those years in strict meditation retreat.
+
+![Jetsunma_Tenzin_Palmo]({{ site.baseurl }}/assets/images/buddhist_teachers/Jetsunma_Tenzin_Palmo.jpg)
+
+#### Thubten Chödrön (1950 - present)
 
 American-born Tibetan Buddhist nun, author, teacher, and the founder and abbess of Sravasti Abbey, the only Tibetan Buddhist training monastery for Western nuns and monks in the United States.
 
-**Thupten Jinpa (1958 - present)**
+![chodron]({{ site.baseurl }}/assets/images/buddhist_teachers/chodron.webp)
 
-Tibetan Buddhist scholar, former monk and an academic of religious studies and both Eastern and Western philosophy, Founder and Compassion Institute, author of the courses : Compassion Cultivation Training (CCT), Building Compassion From the Inside Out
+#### Thupten Jinpa (1958 - present)
 
-**Jetsun Khandro Rinpoche (1967 - present)**
+Tibetan Buddhist scholar known for his work on Compassion, former monk and academic of religious studies, founder of the Compassion Institute. He is the author of the courses <i>Compassion Cultivation Training (CCT)</i> and <i>Building Compassion From the Inside Out.</i>
+
+![inpa]({{ site.baseurl }}/assets/images/buddhist_teachers/jinpa.jpeg)
+
+#### Jetsun Khandro Rinpoche (1967 - present)
 
 Tibetan Lama and nun.
 
-**Ani Choying Drolma (1971 - present)**
+![Khandro_Rinpoche]({{ site.baseurl }}/assets/images/buddhist_teachers/Khandro_Rinpoche.jpg)
 
-Nepalese Buddhist nun of Tibetan origin and musician
+#### Ani Chöying Drölma (1971 - present)
 
-**Lama Rinchen Gyaltsen (1972 - present)**
+Nepalese Buddhist nun of Tibetan origin and musician.
 
-Director of the Buddhist centre Sakya in Spain.
+![Ani_Chöying_Drölma]({{ site.baseurl }}/assets/images/buddhist_teachers/Ani_Chöying_Drölma.jpg)
 
-**Yongey Mingyur Rinpoche (1975 - present)**
+#### Lama Rinchen Gyaltsen (1972 - present)
 
-Tibetan teacher and master of the Karma Kagyu and Nyingma lineages of Tibetan Buddhism. He integrates Buddhist practice and science
+Director of the Sakya Buddhist centre in Spain.
 
-**Yuttadhammo Bhikkhu (1979 - present)**
+![rinchen]({{ site.baseurl }}/assets/images/buddhist_teachers/rinchen.jpeg)
+
+#### Yongey Mingyur Rinpoche (1975 - present)
+
+Tibetan teacher and master of the Karma Kagyu and Nyingma lineages of Tibetan Buddhism. He integrates Buddhist practice and science.
+
+![mingyur_rinpoche]({{ site.baseurl }}/assets/images/buddhist_teachers/mingyur_rinpoche.jpeg)
+
+#### Yuttadhammo Bhikkhu (1979 - present)
 
 Canadian-born Theravada Buddhist monk.
 
- 
+![bhikkhu]({{ site.baseurl }}/assets/images/buddhist_teachers/bhikkhu.jpg)
 
-**Notable FPMT teachers**
+#### Gueshe Dorji Damdul
 
-- Kabir Saxena : founder of Root institute in Bodhgaya
-- Ven Tenzin Choden : teacher at Kopan monastery
-- Ven Tenzin Thegchog : teacher at Tushita meditation centre
-- Ven Thubten Wangdu : teacher at Tushita meditation centre
+Director of Tibet House in New Delhi.
 
-**Gueshe Dorji Damdul**
+![dorji-damdul]({{ site.baseurl }}/assets/images/buddhist_teachers/dorji-damdul.jpg)
 
-Director of Tibet House
+#### Notable FPMT teachers
+
+- **Kabir Saxena** : founder of Root institute in Bodhgaya
+- **Ven. Tenzin Choden** : teacher at Kopan monastery
+- **Ven. Tenzin Thegchog** : teacher at Tushita meditation centre
+- **Ven. Thubten Wangdu** : teacher at Tushita meditation centre
+
 
 
