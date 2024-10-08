@@ -9,30 +9,16 @@ image: assets/images/nagarjuna.webp
 
 # Famous Buddhists teachers
 
-When I first discovered the Buddhist world, I was confused about all the personalities and famous teachers that everyone seems to know about. Here is a short introduction to some of the main teachers in Buddhism.
+When I first discovered the Buddhist world, I was confused about all the personalities and famous teachers that everyone seems to know about. Here is a short introduction to some of the main teachers in Buddhism, by chronological order.
 
 # Ancient teachers
 
+| | |
+|----------|-------------:|
+| ![buddha]({{ site.baseurl }}/assets/images/buddha.jpeg)  |    **Buddha (6th century BCE)**  <br> Enlightened teacher, taught the path to enlightenment, also known as Siddhartha Gautama or Shakyamuni.  |
+![nagarjuna]({{ site.baseurl }}/assets/images/nagarjuna.webp) | **Nāgārjuna (1st and 2nd century)** <br> Indian monk and Mahāyāna Buddhist philosopher of the Madhyamaka school.    |
 
 
-
-![buddha]({{ site.baseurl }}/assets/images/buddha-small.jpg){: .align-left}
-**Buddha (6th century BCE)**
-Enlightened teacher, taught the path to enlightenment, also known as Siddhartha Gautama or Shakyamuni)
-{:style="clear: left"}
-
-
-| ![buddha]({{ site.baseurl }}/assets/images/buddha-small.jpg){: .align-left}         | **Buddha (6th century BCE)** |
-|---------------------|-------------------------------------------|
-|     | Enlightened teacher, taught the path to enlightenment, also known as Siddhartha Gautama or Shakyamuni)                                     |
-
-
-
-**Nāgārjuna (1st and 2nd century)**
-
-Indian monk and Mahāyāna Buddhist philosopher of the Madhyamaka school.
-
-![nagarjuna]({{ site.baseurl }}/assets/images/nagarjuna.webp)
 
 **Chandrakirti (7th century)**
 
