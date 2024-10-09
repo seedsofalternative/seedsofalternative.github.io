@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Famous Buddhist Teachers"
-author: sal
+author: pierre
 categories: [ buddhism ]
 image: assets/images/buddhist_teachers/nagarjuna.webp
 ---
-
-
-# Famous Buddhists teachers
 
 When I first discovered the Buddhist world, I was confused about all the personalities and famous teachers that everyone seems to know about. Here is a short introduction to some of the main teachers in Buddhism, by chronological order.
 
