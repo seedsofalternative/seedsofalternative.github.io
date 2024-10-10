@@ -20,7 +20,7 @@ The various forms of Buddhism are known as *Yana*, a Sanskrit word meaning "path
 
 The term *Hinayana* ("lesser vehicle") is considered pejorative and should be replaced by *Theravada* ("Way of the Elders"). Vajrayana, meanwhile, is a specialized subset of the Mahayana tradition.
 
-### Theravada ("Way of the Elders")
+### Theravada : *The Way of the Elders*
 
 ![theravada]({{ site.baseurl }}/assets/images/buddhist_traditions/theravada.webp)
 
@@ -32,7 +32,7 @@ This tradition emphasizes renunciation and self-purification through personal me
 
 Theravada is the predominant form of Buddhism practiced in countries such as Sri Lanka, Myanmar, Thailand, Cambodia, and Laos.
 
-### Mahayana ("The Great Vehicle")
+### Mahayana : *The Great Vehicle*
 
 ![mahayana]({{ site.baseurl }}/assets/images/buddhist_traditions/mahayana.webp)
 
@@ -46,7 +46,7 @@ Central to Mahayana philosophy is the concept of *emptiness* (*Shunyata*)—the 
 
 Mahayana is the dominant form of Buddhism in East and Central Asia, flourishing in countries like China (*Chan* Buddhism), Japan (*Zen*, *Nichiren*, and *Pure Land* Buddhism), Vietnam (*Thien* Buddhism), and Korea (*Seon* Buddhism).
 
-### Vajrayana ("Diamond vehicle")
+### Vajrayana : *The Diamond Vehicle*
 
 ![vajrayana]({{ site.baseurl }}/assets/images/buddhist_traditions/vajrayana.webp)
 
@@ -72,12 +72,14 @@ In addition, the **Jonang** school, founded by Yumo Mikyo Dorje, is known for it
 
 # Summary
 
+Below is a summary table comparing the three vehicle : Theravada, Mahayana and Vajrayana.
+
 |  | Theravada | Mahayana | Vajrayana |
 | --- | --- | --- | --- |
 | Name meaning | Way of the Elders | Great Vehicle | Diamond Vehicle |
-| Founded | 1<sub>st</sub> century B.C.E | 4<sub>th</sub> century CE | 5<sub>th</sub> century CE |
+| Founded | 1<sup>st</sup> century B.C.E | 4<sup>th</sup> century CE | 5<sup>th</sup> century CE |
 | How to deal with the 3 poisons | avoid the poison | take the antidote | distil the poison to its pure essence |
-| Location | Southern India, Sri Lanka, Myanmar, Thailand, Cambodia, and Laos. | China, Japan, Vietnam, Central Asia, Korea | Tibet, Nepal, Northern India, Bhutan, Mongolia, Himalayas region |
+| Location | Southern India, Sri Lanka, Myanmar, Thailand, Cambodia, Laos | China, Japan, Vietnam, Central Asia, Korea | Tibet, Nepal, Northern India, Bhutan, Mongolia, Himalayas region |
 | Goal | attain Nirvana through personal meditation and solitary efforts | reach enlightenment by practicing widsom and compassion | reach enlightenment as fast as possible using esoteric practices |
 | Spiritual ideal | Arahant | Boddhissattva | Boddhissattva |
 
@@ -104,19 +106,18 @@ In the **Theravada** tradition, there are two primary philosophical systems:
 
 Within the **Mahayana** tradition, there are two major schools of thought:
 
-- **Madhyamaka** (The Middle Way School) does not assert the true establishment of anything, not even conventionally. It is divided into two branches:
-    - **Svatantrika** (The Middle Way Autonomy School) accepts autonomous reasoning but denies true establishment, even conventionally. It has two sub-schools:
-        - **Sautrantika-Svatantrika** (Sutra-based Middle Way Autonomists), whose views align with the Sautrantika school of the Theravada tradition.
-        - **Yogacara-Svatantrika** (Yogic Middle Way Autonomists), whose views align with the Cittamatra (Mind-Only) school.
-- **Prasangika** (The Middle Way Consequence School) is a more radical branch of Madhyamaka that refutes even autonomous reasoning, relying solely on deconstructive logic to reveal the emptiness of all phenomena.
-
-The **Cittamatra** (Mind-Only School) asserts that external objects do not exist; only the mind exists. However, it does accept the existence of truly established self-knowers.
+1. **Madhyamaka** (The Middle Way School) does not assert the true establishment of anything, not even conventionally. It is divided into two branches:
+    1. **Svatantrika** (The Middle Way Autonomy School) accepts autonomous reasoning but denies true establishment, even conventionally. It has two sub-schools:
+        1. **Sautrantika-Svatantrika** (Sutra-based Middle Way Autonomists), whose views align with the Sautrantika school of the Theravada tradition.
+        2. **Yogacara-Svatantrika** (Yogic Middle Way Autonomists), whose views align with the Cittamatra (Mind-Only) school.
+    2. **Prasangika** (The Middle Way Consequence School) is a more radical branch of Madhyamaka that refutes even autonomous reasoning, relying solely on deconstructive logic to reveal the emptiness of all phenomena.
+2. The **Cittamatra** (Mind-Only School) asserts that external objects do not exist; only the mind exists. However, it does accept the existence of truly established self-knowers.
 
 I hope you're keeping up—Buddhists certainly love organization! Below is a diagram summarizing the various traditions, schools, and practices in Buddhism.
 
 ![buddhist_traditions]({{ site.baseurl }}/assets/images/buddhist_traditions/buddhist_traditions.webp)
 
-# For more information
+# Further reading
 
 1. [The Four Buddhist Tenet Systems Regarding the Two Truths](https://studybuddhism.com/en/advanced-studies/abhidharma-tenet-systems/the-indian-tenet-systems/the-four-buddhist-tenet-systems-regarding-the-two-truths)
 
