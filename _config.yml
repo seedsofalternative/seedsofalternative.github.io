@@ -1,7 +1,7 @@
 # Site
 name: 'Seeds of Alternative'
 title: 'Seeds of Alternative'
-description: 'A blog about alternative ideas.'
+description: 'Spreading alternative ideas, one seed at a time.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -12,8 +12,8 @@ include: ["_pages"]
 permalink: /:title/
 # domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+twitter_username: seeds_of_alter
+github_username:  seedsofalternative
 
 
 # Authors
@@ -24,7 +24,7 @@ authors:
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     # email: wowthemesnet@gmail.com
     web: https://www.pierreaumjaud.com/
-    # twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/seeds_of_alter
     description: "Slow-traveller, engineer, treks, permaculture, yoga, meditation."
   # john:
   #   name: John

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Famous Buddhist Teachers"
+title:  "Influential Buddhist Teachers"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/buddhist_teachers/nagarjuna.webp
