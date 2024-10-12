@@ -67,7 +67,7 @@ Does this mean we shouldn’t enjoy life’s pleasures? Not at all. Buddhism doe
 > *“The way we live, the way we think, everything is dedicated to material pleasure. We consider sense objects to be of utmost importance and materialistically devote ourselves to whatever we think makes us happy. Even though all this comes from our mind, we are so totally occupied by external objects that we never look within. […]
 We have to examine ourselves - not just our body, but our mind. After all, it is our mind that is always telling us what to do. We have to know our own psychology, our inner nature. We have to know our mind.”*
 > 
--- Lama Yeshe
+<p style="text-align:right;">-- Lama Yeshe</p>
 
 # Conclusion
 
