@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The different Buddhist Traditions."
+title:  "The different Buddhist Traditions"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/buddhist_traditions/buddhist_traditions.png
