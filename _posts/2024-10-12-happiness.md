@@ -23,7 +23,6 @@ In that sense, happiness is a **state of a lasting mental peace and well-being.*
 
 # The Trap of Temporary Pleasures
 
-
 ![external-pleasure]({{ site.baseurl }}/assets/images/happiness/external-pleasure.webp)
 
 From the moment we wake up, every action we take is motivated by the wish to be happy and avoid suffering. However, although this desire guides us, we often don’t take the time to examine the quality of the happiness we seek.
@@ -53,7 +52,6 @@ Chasing after these concerns keeps us in a constant state of hope and fear, neve
 
 # True Happiness Comes From Within
 
-
 ![true-happiness]({{ site.baseurl }}/assets/images/happiness/true-happiness.webp)
 
 According to Buddhist teachings, lasting happiness is possible, but it doesn’t come from temporary, external stimuli. We constantly look outward for happiness, placing our well-being in the hands of things we cannot control—whether it’s material possessions, success, or the approval of others. The problem with this approach is that outer circumstances are impermanent. They change, and they are beyond our control, leading to a constant cycle of dissatisfaction.
@@ -61,7 +59,6 @@ According to Buddhist teachings, lasting happiness is possible, but it doesn’t
 Instead, true happiness arises from within, through the cultivation of a healthy mind. Cultivating this inner well-being requires us to shift our focus from the outside world to our internal world. We need to examine our thoughts, emotions, and perspectives and learn how to transform them in ways that promote lasting peace and contentment.
 
 # A Balanced Approach to Happiness
-
 
 ![inner-peace]({{ site.baseurl }}/assets/images/happiness/inner-peace.webp)
 
