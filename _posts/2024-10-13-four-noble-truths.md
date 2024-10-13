@@ -59,17 +59,17 @@ The Eightfold Path is a practical guide to overcoming suffering and achieving en
 7. Right Mindfulness
 8. Right Concentration
 
-In S. N. Goenka’s Vipassana tradition, the Eightfold Noble Path is presented under three categories : **Sila**, **Samadhi**, and **Vipassana**.
+In S. N. Goenka’s Vipassana tradition, the Eightfold Noble Path is presented under three categories : **Sīla**, **Samādhi**, and **Paññā**.
 
-1. **Sila :** ethical foundation
+1. **Sīla :** ethical foundation
     1. **Right speech** : Abstaining from lying, from divisive speech, from abusive speech, and from idle chatter and gossip
     2. **Right action** : Abstaining from killing, abstaining from stealing, abstaining from sexual misconduct.
     3. **Right livelihood** : Earning a living in a way that doesn’t harm others, avoiding professions that promote suffering or exploitation, do not take intoxicants.
-2. **Samadhi :** mental concentration
+2. **Samādhi :** mental concentration
     1. **Right effort** : Cultivating positive states of mind, preventing unwholesome thoughts, and fostering wholesome actions.
     2. **Right mindfulness** : Being fully aware and present in each moment, observing thoughts, feelings, and sensations without attachment or judgment.
     3. **Right concentration** : Developing deep focus and meditation, leading to mental clarity and peace.
-3. **Vipassana :** wisdom through insight
+3. **Paññā :** wisdom through insight
     1. **Right view** : Gaining right understanding of the nature of reality by eliminating confusion, misunderstanding, and deluded thinking.
     2. **Right Intention** : Developing the right mindset, free from ill will and harmful desires.
 
@@ -82,7 +82,7 @@ In the Mahayana tradition, the path to the cessation of suffering is outlined in
 3. **Patience (Kṣānti Pāramitā)**: Developing patience and tolerance, particularly in the face of hardship, adversity, or provocation.
 4. **Diligence (Vīrya Pāramitā)**: The perfection of energy and perseverance, diligently applying oneself to virtuous practices. It involves a joyful and sustained effort in all spiritual endeavors.
 5. **Meditative Concentration (Dhyāna Pāramitā)**: Cultivating deep focus and mental discipline through meditation, leading to clarity and concentration.
-6. **Wisdom (Prajñā Pāramitā)**: The development of insight into the true nature of reality, especially the understanding of emptiness (śūnyatā).
+6. **Wisdom (Prajñā Pāramitā)**: The development of insight into the true nature of reality, especially the understanding of emptiness (*śūnyatā*).
 
 These Six Perfections are a restatement of the Eightfold Path.
 
@@ -94,7 +94,7 @@ In addition, the **Three Principal Aspects of the Path to Enlightenment** are fo
 
 1. **Renunciation**: the wish to be free from suffering and its causes. It involves recognizing the unsatisfactory nature of worldly existence and developing a sincere determination to break free from attachment to temporary pleasures and delusions. 
 2. **Bodhicitta**: the wish to attain enlightenment for the benefit of all sentient beings. It is the altruistic intention to help others overcome suffering by becoming a fully awakened being.
-3. **Wisdom (Prajñā)**: the wisdom that understands the ultimate nature of reality. It is the realization that all phenomena are empty of inherent, independent existence, and that things arise dependently. This insight dispels ignorance, which is the root cause of suffering.
+3. **Wisdom (Skt. Prajñā)**: the wisdom that understands the ultimate nature of reality. It is the realization that all phenomena are empty of inherent, independent existence, and that things arise dependently. This insight dispels ignorance, which is the root cause of suffering.
 
 # Analogy of the Buddha as a Doctor
 
