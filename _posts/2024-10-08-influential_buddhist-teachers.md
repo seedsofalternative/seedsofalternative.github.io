@@ -12,12 +12,12 @@ When I first discovered the Buddhist world, I was confused about all the persona
 
 #### Buddha (6<sup>th</sup> century BCE)
 
-Enlightened teacher, taught the path to enlightenment, also known as Siddhartha Gautama or Shakyamuni.
+The enlightened teacher who taught the path to awakening, also known as Siddhartha Gautama or Shakyamuni.
 ![buddha]({{ site.baseurl }}/assets/images/buddhist_teachers/buddha.jpeg)
 
 #### Nāgārjuna (1<sup>st</sup> and 2<sup>nd</sup> century)
 
-Indian monk and Mahāyāna Buddhist philosopher of the Madhyamaka school.
+Indian monk and Mahāyāna Buddhist philosopher who founded the Madhyamaka school.
 ![nagarjuna]({{ site.baseurl }}/assets/images/buddhist_teachers/nagarjuna.webp)
 
 #### Chandrakirti (7<sup>th</sup> century)
@@ -28,7 +28,7 @@ Buddhist scholar of the Madhyamaka school and a noted commentator on the works o
 
 #### Shantideva (8<sup>th</sup> century)
 
-Indian philosopher, Buddhist monk, poet, scholar at Nālandā Monastic University, adherent of the Mādhyamaka philosophy. He is known for writting <i>A Guide to the Bodhisattva's Way of Life.</i>
+Indian philosopher, Buddhist monk, poet, scholar at Nālandā Monastic University, adherent of the Mādhyamaka philosophy. He is known for his work <i>A Guide to the Bodhisattva's Way of Life.</i>
 ![shantideva]({{ site.baseurl }}/assets/images/buddhist_teachers/shantideva.webp)
 
 #### Guru Rinpoche, Padmasambhava (8<sup>th</sup> century)
@@ -93,7 +93,7 @@ Vietnamese buddhist monk, father of mindfulness and Zen buddhism, founded the Pl
 
 #### His Holiness the 14th Dalai Lama (1935 - present)
 
-Spiritual leader of Tibetan Buddhism.
+The spiritual leader of Tibetan Buddhism.
 
 ![dalailama_ap]({{ site.baseurl }}/assets/images/buddhist_teachers/dalailama_ap.jpg)
 
