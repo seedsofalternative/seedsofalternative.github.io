@@ -10,8 +10,7 @@ featured: true
 Happiness is something we all want. This universal desire connects every sentient being, whether human or animal. Despite this shared aspiration, we rarely ask ourselves what happiness really is, and how to achieve this state. This is what we will explore together in this post.
 
 > *All living beings want to be happy and do not want to suffer.*
-> 
--- His Holiness the Dalai Lama
+> <p style="text-align:right;"> &mdash;His Holiness the Dalai Lama</p>
 
 # Definition
 
@@ -66,8 +65,7 @@ Does this mean we shouldn’t enjoy life’s pleasures? Not at all. Buddhism doe
 
 > *“The way we live, the way we think, everything is dedicated to material pleasure. We consider sense objects to be of utmost importance and materialistically devote ourselves to whatever we think makes us happy. Even though all this comes from our mind, we are so totally occupied by external objects that we never look within. […]
 We have to examine ourselves - not just our body, but our mind. After all, it is our mind that is always telling us what to do. We have to know our own psychology, our inner nature. We have to know our mind.”*
-> 
-<p style="text-align:right;">-- Lama Yeshe</p>
+> <p style="text-align:right;"> &mdash;Lama Yeshe</p>
 
 # Conclusion
 

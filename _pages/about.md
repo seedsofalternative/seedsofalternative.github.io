@@ -22,7 +22,7 @@ This blog seeks to share and promote alternative ideas -- valuable knowledge tha
 
 <p>Your donation helps me to maintain and improve this blog.</p>
 
-<a target="_blank" href="buymeacoffee.com/datasparked" class="btn btn-warning">Buy me a coffee</a> <a target="_blank" href="https://paypal.me/PierreAumjaud?country.x=FR&locale.x=fr_FR" class="btn btn-primary">Paypal</a>
+<a target="_blank" href="[https://buymeacoffee.com/datasparked" class="btn btn-warning">Buy me a coffee</a> <a target="_blank" href="https://paypal.me/PierreAumjaud?country.x=FR&locale.x=fr_FR" class="btn btn-primary">Paypal</a>
 
 </div>
 </div>
