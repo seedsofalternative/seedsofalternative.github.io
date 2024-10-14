@@ -123,3 +123,6 @@ I hope you're keeping up—Buddhists certainly love organization! Below is a dia
 
 2. [The Four Schools of Tenets](https://tushita.info/wp-content/uploads/2020/11/The-Four-Tenet-Schools.pdf)
 
+---
+
+*<ins>DISCLAIMER :</ins> The information shared in this article are based on my personal experience from various Buddhist courses I attended in India and Nepal. I am not by any means an expert on the subject. If you notice any inaccuracies, please feel free to contact me or mention them in the comments.*

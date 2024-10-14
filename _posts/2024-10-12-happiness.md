@@ -70,3 +70,8 @@ We have to examine ourselves - not just our body, but our mind. After all, it is
 # Conclusion
 
 Happiness is something we all seek, but too often we look for it in the wrong places. By focusing on external pleasures and material gains, we trap ourselves in a cycle of temporary satisfaction and dissatisfaction. However, true happiness—lasting contentment—comes from within, it arises from cultivating our minds. By shifting our focus inward, we can begin to cultivate the genuine happiness that we all desire—a happiness that is stable, lasting, and independent of external circumstances.
+
+
+---
+
+*<ins>DISCLAIMER :</ins> The information shared in this article are based on my personal experience from various Buddhist courses I attended in India and Nepal. I am not by any means an expert on the subject. If you notice any inaccuracies, please feel free to contact me or mention them in the comments.*

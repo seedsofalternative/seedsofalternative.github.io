@@ -99,13 +99,13 @@ The spiritual leader of Tibetan Buddhism.
 
 #### Lama Yeshe (1935 - 1984)
 
-Co-founder of Kopan monastery and FPMT.
+Co-founder of Kopan monastery in Kathmandu and the Foundation for the Preservation of the Mahayana Tradition (FPMT).
 
 ![Lama-Yeshe]({{ site.baseurl }}/assets/images/buddhist_teachers/Lama-Yeshe.webp)
 
 #### Lama Zopa Rinpoche (1945 – 2023)
 
-Co-founder of Kopan monastery and FPMT.
+Co-founder of Kopan monastery in Kathmandu and the Foundation for the Preservation of the Mahayana Tradition (FPMT).
 
 ![lama_zopa]({{ site.baseurl }}/assets/images/buddhist_teachers/lama_zopa.jpg)
 
@@ -182,5 +182,6 @@ Director of Tibet House in New Delhi.
 - **Ven. Tenzin Thegchog** : teacher at Tushita meditation centre
 - **Ven. Thubten Wangdu** : teacher at Tushita meditation centre
 
+---
 
-
+*<ins>DISCLAIMER :</ins> The information shared in this article are based on my personal experience from various Buddhist courses I attended in India and Nepal. I am not by any means an expert on the subject. If you notice any inaccuracies, please feel free to contact me or mention them in the comments.*

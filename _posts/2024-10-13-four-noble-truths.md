@@ -105,3 +105,8 @@ The Four Noble Truths can be compared to the process of diagnosing and treating 
 # Conclusion
 
 The Four Noble Truths provide a clear guide to understanding suffering and how to overcome it. Through practices of wisdom and compassion, one can gradually free the mind from the delusions that cause suffering, leading to ultimate liberation and lasting inner peace.
+
+
+---
+
+*<ins>DISCLAIMER :</ins> The information shared in this article are based on my personal experience from various Buddhist courses I attended in India and Nepal. I am not by any means an expert on the subject. If you notice any inaccuracies, please feel free to contact me or mention them in the comments.*
