@@ -6,7 +6,9 @@ categories: [ buddhism ]
 image: assets/images/meditation/stone-stacking.jpg
 ---
 
-Meditation is an ancient technique practiced by many traditions worldwide, such as Hinduism, Yoga, Buddhism, Sikkhism, Sufism or Taoism. As we have seen in previous articles, meditation is key to understanding our mind and to work towards the state of lasting happiness. In this blog post, we’ll explore what meditation actually is, what are its goals and benefits, and what are the different forms of meditation.
+Meditation is an ancient technique practiced by many traditions worldwide, such as Hinduism, Yoga, Buddhism, Sikkhism, Sufism or Taoism. As we have seen in previous articles, meditation is key to understanding our [mind]({{ site.baseurl }}/the-mind) and to work towards the state of lasting [happiness]({{ site.baseurl }}/happiness). In this blog post, we’ll explore what meditation actually is, what are its goals and benefits, and what are the different forms of meditation.
+
+
 
 # What Meditation Is – And What It Is Not
 
