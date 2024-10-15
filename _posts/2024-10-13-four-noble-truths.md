@@ -50,43 +50,34 @@ The fourth noble truth outlines the path that leads to the cessation of sufferin
 
 The Eightfold Path is a practical guide to overcoming suffering and achieving enlightenment. It outlines eight interrelated steps that lead to ethical conduct, mental discipline, and wisdom. These are:
 
-1. Right View
-2. Right Intention
-3. Right Speech
-4. Right Action
-5. Right Livelihood
-6. Right Effort
-7. Right Mindfulness
-8. Right Concentration
+1. **Right View** : Gaining right understanding of the nature of reality by eliminating confusion, misunderstanding, and deluded thinking.
+2. **Right Intention** : Developing the right mindset, free from ill will and harmful desires.
+3. **Right Speech** : Abstaining from lying, from divisive speech, from abusive speech, and from idle chatter and gossip.
+4. **Right Action** : Abstaining from killing, abstaining from stealing, abstaining from sexual misconduct.
+5. **Right Livelihood** : Earning a living in a way that doesn’t harm others, avoiding professions that promote suffering or exploitation, do not take intoxicants.
+6. **Right Effort** : Cultivating positive states of mind, preventing unwholesome thoughts, and fostering wholesome actions.
+7. **Right Mindfulness** : Being fully aware and present in each moment, observing thoughts, feelings, and sensations without attachment or judgment.
+8. **Right Concentration** : Developing deep focus and meditation, leading to mental clarity and peace.
 
-In S. N. Goenka’s Vipassana tradition, the Eightfold Noble Path is presented under three categories : **Sīla**, **Samādhi**, and **Paññā**.
-
-1. **Sīla :** ethical foundation
-    1. **Right speech** : Abstaining from lying, from divisive speech, from abusive speech, and from idle chatter and gossip
-    2. **Right action** : Abstaining from killing, abstaining from stealing, abstaining from sexual misconduct.
-    3. **Right livelihood** : Earning a living in a way that doesn’t harm others, avoiding professions that promote suffering or exploitation, do not take intoxicants.
-2. **Samādhi :** mental concentration
-    1. **Right effort** : Cultivating positive states of mind, preventing unwholesome thoughts, and fostering wholesome actions.
-    2. **Right mindfulness** : Being fully aware and present in each moment, observing thoughts, feelings, and sensations without attachment or judgment.
-    3. **Right concentration** : Developing deep focus and meditation, leading to mental clarity and peace.
-3. **Paññā :** wisdom through insight
-    1. **Right view** : Gaining right understanding of the nature of reality by eliminating confusion, misunderstanding, and deluded thinking.
-    2. **Right Intention** : Developing the right mindset, free from ill will and harmful desires.
+In S. N. Goenka’s **Vipassana tradition**, the Eightfold Noble Path is presented under three stages : 
+1. **Sīla**—morality. It is the foundation and preparation upon which the Dharma practice is built. It includes right speech, right action, and right livelihood.
+2. **Samādhi**—mental concentration. It consists of focusing the mind, allows it to build the mental qualities needed to contemplate phenomena and penetrate to wisdom. It includes right effort, right mindfulness, and right concentration.
+3. **Paññā**—wisdom through insight. It is experiential knowledge of reality that releases one from improper views and introduces them to correct views. It encompasses right view and right intention.
 
 ### The Six Perfections
 
-In the Mahayana tradition, the path to the cessation of suffering is outlined in **Six Perfections** (Pāramitās). They are the positive virtues to cultivate in order to achieve enlightenment. The six perfections are:
+In the Mahayana tradition, the path to the cessation of suffering is outlined in **Six Perfections** (*Pāramitās*). They are the positive virtues to cultivate in order to achieve enlightenment. The six perfections are:
 
-1. **Generosity (Dāna Pāramitā)**: The practice of selfless giving, whether material gifts, time, or wisdom, without expecting anything in return.
-2. **Ethical Conduct (Śīla Pāramitā)**: Living in accordance with moral principles, avoiding harmful actions, and cultivating behavior that benefits oneself and others.
-3. **Patience (Kṣānti Pāramitā)**: Developing patience and tolerance, particularly in the face of hardship, adversity, or provocation.
-4. **Diligence (Vīrya Pāramitā)**: The perfection of energy and perseverance, diligently applying oneself to virtuous practices. It involves a joyful and sustained effort in all spiritual endeavors.
-5. **Meditative Concentration (Dhyāna Pāramitā)**: Cultivating deep focus and mental discipline through meditation, leading to clarity and concentration.
-6. **Wisdom (Prajñā Pāramitā)**: The development of insight into the true nature of reality, especially the understanding of emptiness (*śūnyatā*).
+1. **Generosity** (*Dāna*) : The practice of selfless giving, whether material gifts, protection, time, or Dharma without expecting anything in return.
+2. **Morality** (*Śīla*) : Refraining from harmful actions of body, speech and mind.
+3. **Patience** (*Kṣānti*) : Developing a calm positive state of mind in the face of hardship, adversity, or provocation, without getting upset. It's also referred to as forebearance or tolerance.
+4. **Diligence** (*Vīrya*) : The perfection of energy, perseverance, or joyous effort. It consists in diligently applying oneself to spiritual endeavors and Dharma practices.
+5. **Meditative Concentration** (*Dhyāna*) : Cultivating attention in order to keep the mind focused single-pointedly.
+6. **Wisdom** (*Prajñā*) : The development of insight into the true nature of reality, especially the understanding of emptiness (*śūnyatā*).
 
-These Six Perfections are a restatement of the Eightfold Path.
+Below is a diagram explaining the relationship between the Eightfold path, the Six perfections and the three stages described in the Vipassana tradition.
 
-![6perfections-8foldpath]({{ site.baseurl }}/assets/images/four-noble-truths/6perfections-8foldpath.jpg)
+![6perfections-eightfoldpath_sixperfections]({{ site.baseurl }}/assets/images/four-noble-truths/eightfoldpath_sixperfections.webp)
 
 ### The Three Aspects of the Path
 
