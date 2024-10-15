@@ -12,9 +12,7 @@ The Buddha was an ordinary human who attained enlightenment through his own effo
 
 The first truth is the recognition that suffering or misery is a fundamental part of human existence. 
 
-The word “suffering” (*dukkha*) is often misunderstood. It isn't limited to physical pain but encompasses all unpleasant experiences, including physical discomfort, emotional distress, loneliness or stress. A better translation for *Dukkha* would be dissatisfaction or discontent.
-
-The Buddha described suffering on three levels:
+The word “suffering” (*dukkha*) is often misunderstood. It isn't limited to physical pain but encompasses all unpleasant experiences, including physical discomfort, emotional distress, loneliness or stress. A better translation for *Dukkha* would be dissatisfaction or discontent. The Buddha described suffering on three levels:
 
 - **The Suffering of Suffering**: The most obvious forms of suffering, such as physical pain or emotional distress, which even animals try to avoid.
 - **The Suffering of Change**: Even pleasurable experiences are unsatisfactory because they are impermanent. Things we find pleasurable, like relationships or possessions, are not inherently satisfying. Over time, they change or fade, leaving us craving more or feeling disappointed.
