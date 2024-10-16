@@ -19,18 +19,9 @@ Buddhist philosophy identifies three primary delusions, known as the **Three Poi
 ### Definition
 
 At the core of these delusions is ignorance, considered the main troublemaker that disturbs our peace of mind. Ignorance isn't just a lack of information. It's an active **misunderstanding of reality**—seeing things in a way that doesn't align with how they truly are. This distorted perception leads us to make choices that cause suffering for ourselves and others. Ignorance manifests in three ways.
-
-### 1. Grasping at Permanence
-
-We tend to perceive things as stable and unchanging when, in reality, everything is **impermanent**. People age, relationships evolve, and material possessions deteriorate. By clinging to the idea of permanence, we set ourselves up for disappointment when things inevitably change.
-
-### 2. Seeking Lasting Happiness in Temporary Pleasures
-
-We often mistake fleeting pleasures for true happiness. Ignorance leads us to believe that external things—like wealth, status, or physical beauty—can provide lasting satisfaction. However, these are temporary and can't fulfill our deeper needs.
-
-### 3. Believing in a Self-Existent "I"
-
-We hold onto the notion of an independent, unchanging self. This solidified sense of "I" leads to ego-driven behaviors and separates us from others. For example when criticized, we might react defensively because we feel our core identity is being attacked.
+1. **By grasping at permanence** : We tend to perceive things as stable and unchanging when, in reality, everything is impermanent. People age, relationships evolve, and material possessions deteriorate. By clinging to the idea of permanence, we set ourselves up for disappointment when things inevitably change.
+2. **By seeking happiness in temporary pleasures** : We often mistake fleeting pleasures for true happiness. Ignorance leads us to believe that external things—like wealth, status, or physical beauty—can provide lasting satisfaction. However, these are temporary and can't fulfill our deeper needs.
+3. **By believing in a self-existent "I"** : We hold onto the notion of an independent, unchanging self. This solidified sense of "I" leads to ego-driven behaviors and separates us from others. For example when criticized, we might react defensively because we feel our core identity is being attacked.
 
 # 2. Attachment
 
@@ -40,7 +31,7 @@ We hold onto the notion of an independent, unchanging self. This solidified sens
 
 In modern psychology, attachment often refers to a deep, lasting emotional bond between two people, such as the essential connection between a child and their mother. This type of attachment is considered crucial for healthy development.
 
-However, in Buddhism, attachment is defined differently. It is a mental tendency that sees something **as inherently attractive, exaggerates its positive qualities,** leading to a desire to possess and keep it. This form of attachment projects qualities onto objects or people that they don't inherently possess, leading us to believe they are the source of our happiness.
+However, in Buddhism, attachment is defined differently. It is a mental tendency that **sees something as inherently attractive, exaggerates its positive qualities,** leading to a desire to possess and keep it. This form of attachment projects qualities onto objects or people that they don't inherently possess, leading us to believe they are the source of our happiness.
 
 ### The Cycle of Dissatisfaction
 
@@ -66,7 +57,7 @@ In contrast, true love in Buddhism is selfless and unconditional. It desires the
 
 ### Definition
 
-Anger—the last of the three poisons—is a mental factor that perceives an object as inherently unattractive, exaggerates its negative qualities, and wishes to eliminate or harm it. This emotion isn't limited to explosive rage; it can appear subtly as irritation, annoyance, moodiness, or judgmental thoughts. Even passive behaviors like giving someone the silent treatment can be expressions of underlying anger.
+Anger—the last of the three poisons—is a mental factor that **perceives an object as inherently unattractive, exaggerates its negative qualities, and wishes to eliminate or harm it**. This emotion isn't limited to explosive rage; it can appear subtly as irritation, annoyance, moodiness, or judgmental thoughts. Even passive behaviors like giving someone the silent treatment can be expressions of underlying anger.
 
 ## How is Anger Created
 
@@ -74,7 +65,9 @@ At its core, anger is ego-driven. It stems from rigid expectations about how the
 
 When reality doesn't align with these expectations, aversion arises. If left unchecked, this aversion intensifies into anger and even hatred.
 
-### Cognitive Fusion: Mistaking the Person for Their Actions
+### Cognitive Fusion
+
+![cognitive_fusion]({{ site.baseurl }}/assets/images/delusions/cognitive_fusion.png)
 
 **Cognitive fusion** is the tendency to associate a person's actions with their identity. For example, when someone behaves unkindly towards us, we might label them as an "unkind person," rather than recognizing that a good person might have acted unkindly due to various factors.
 
