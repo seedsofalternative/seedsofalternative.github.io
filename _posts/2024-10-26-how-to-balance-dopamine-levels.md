@@ -101,7 +101,7 @@ A lack of dopamine can cause the following symptoms :
 
 Dopamine deficiency is responsible for many psychological illnesses: [[10]](https://pubmed.ncbi.nlm.nih.gov/26770661/)
 
-- Depression [[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5716179/), [12]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8113739/)
+- Depression [[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5716179/), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC8113739/)]
 - Parkinson’s Disease
 - Attention Deficit Hyperactivity Disorder (ADHD) [[13]](https://pubmed.ncbi.nlm.nih.gov/19738093/)
 - Addiction and substance abuse
