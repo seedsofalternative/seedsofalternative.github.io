@@ -4,7 +4,6 @@ title:  "What is Happiness ?"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/happiness/lotus.jpg
-featured: true
 ---
 
 Happiness is something we all want. This universal desire connects every sentient being, whether human or animal. Despite this shared aspiration, we rarely ask ourselves what happiness really is, and how to achieve this state. This is what we will explore together in this post.
