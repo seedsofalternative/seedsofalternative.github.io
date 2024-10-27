@@ -11,13 +11,13 @@ We all want pleasure. Whenever we have a positive experience, we feel pleasure, 
 
 # What is Dopamine
 
-Dopamine is a neurotransmitter which governs many functions in the body, such as motivation, mood, memory, attention or sleep [[1](https://pubmed.ncbi.nlm.nih.gov/20829095/), [2](https://pubmed.ncbi.nlm.nih.gov/33499192/), [3](https://pubmed.ncbi.nlm.nih.gov/30446950/)].
+Dopamine is a neurotransmitter which governs many functions in the body, such as motivation, mood, memory, attention or sleep <sup>[1](https://pubmed.ncbi.nlm.nih.gov/20829095/), [2](https://pubmed.ncbi.nlm.nih.gov/33499192/), [3](https://pubmed.ncbi.nlm.nih.gov/30446950/)</sup>.
 
-Its role is to reward specific behaviour by producing a feeling of pleasure when it is released in large amounts [[4]](https://www.ncbi.nlm.nih.gov/books/NBK538242/). This is why dopamine is often refered to as the “**feel-good”** chemical. 
+Its role is to reward specific behaviour by producing a feeling of pleasure when it is released in large amounts <sup>[4](https://www.ncbi.nlm.nih.gov/books/NBK538242/)</sup>. This is why dopamine is often refered to as the “**feel-good**” chemical. 
 
-It connects pleasurable experiences and actions to a drive to repeat them. When our brain produces dopamine in response to a positive behaviour, we feel good, which encourages us to repeat that action, which in turn releases more dopamine. By associating doing what makes you feel good (positive reinforcement), dopamine dictates our **reward** pathways [[5]](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/). In contrast, low levels of dopamine are linked to apathy and a lack of motivation for normally enjoyable activities.
+It connects pleasurable experiences and actions to a drive to repeat them. When our brain produces dopamine in response to a positive behaviour, we feel good, which encourages us to repeat that action, which in turn releases more dopamine. By associating doing what makes you feel good (positive reinforcement), dopamine dictates our **reward** pathways <sup>[5](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)</sup>. In contrast, low levels of dopamine are linked to apathy and a lack of motivation for normally enjoyable activities.
 
-Dopamine is one of the 4 so-called “happiness hormones” : [[6]](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
+Dopamine is one of the 4 so-called “happiness hormones” : <sup>[6](https://www.youtube.com/watch?v=ReRcHdeUG9Y)</sup>
 
 - **Endorphin**: Provides pain relief and relaxation, often creating a “runner’s high.” It’s released during or after exercise and while laughing.
 - **Dopamine**: Creates pleasure linked to specific actions and plays a key role in motivation within the brain’s reward system. It’s released when we complete a task or reach a goal.
@@ -46,7 +46,7 @@ Unlike adrenaline, dopamine takes time to produce and is slow to show its effect
 
 Because so much dopamine is consumed after a peak, we don’t have enough dopamine left to maintain our baseline level. This temporary dopamine shortage persists until the body produces enough to return to normal levels. During this deficit, we experience a lack of motivation and energy to perform everyday tasks.
 
-This drop below baseline creates a temporary dopamine shortage, which persists until the body produces enough to return to normal levels [[7]](https://jamanetwork.com/journals/jamaneurology/fullarticle/794743).
+This drop below baseline creates a temporary dopamine shortage, which persists until the body produces enough to return to normal levels <sup>[7](https://jamanetwork.com/journals/jamaneurology/fullarticle/794743)</sup>.
 
 The intensity of this dopamine crash is proportional to the intensity of the peak. The higher the spike, the bigger the drop, and the more time is needed to return to a healthy baseline level.
 
@@ -54,7 +54,7 @@ The intensity of this dopamine crash is proportional to the intensity of the pea
 
 The more we engage in a pleasurable activity, the less it boosts our dopamine level, the less enjoyable it feels over time. Constant over-exposure to dopamine makes us less sensitive. That’s why the tenth scoop of ice cream doesn’t taste as good as the first. That’s why smokers have the need to smoke more cigarettes overtime of to choose stronger cigarettes.
 
-This loss in sensitivity is a defence mechanism to protect ourselves from overstimulation. However, by over-indulging in “cheap” dopamine-stimulating activities, we slowly condition ourselves to **addiction** [[8]](https://pubmed.ncbi.nlm.nih.gov/29142296/).
+This loss in sensitivity is a defence mechanism to protect ourselves from overstimulation. However, by over-indulging in “cheap” dopamine-stimulating activities, we slowly condition ourselves to **addiction** <sup>[8](https://pubmed.ncbi.nlm.nih.gov/29142296/)</sup>.
 
 Sources of “easy” or “cheap” dopamine include :
 
@@ -72,7 +72,7 @@ Engaging in these highly addictive activities is an unhealthy way to stimulate d
 
 A healthier way to produce dopamine is through effort and hardwork. These healthy activities cause the dopamine concentration to increase slowly and progressively, and to be maintained high over a longer period of time.
 
-Our consumerist society leverages this biological mechanism by luring us into the game of **Instant Gratification**. We can get anything we want almost instantly online : a physical product, a movie, a romantic date. 
+Our consumerist society leverages this biological mechanism by luring us into the game of **instant gratification**. We can get anything we want almost instantly online : a physical product, a movie, a romantic date. 
 
 We are constantly surrounded by instant sources of dopamine : food, sex, social media, entertainment, etc… Every time we get a “like” on social media, watch a funny video, play an addictive game, feel sexually aroused, or eat a chocolate cake, our brain gets a quick and temporary hit of dopamine. It doesn’t require much effort and seems harmless, but it can easily become an addictive habit.
 
@@ -86,11 +86,11 @@ In today’s society, only a few rewards—like job satisfaction and deep, meani
 
 Too little or too much dopamine can cause many problems. Dopamine levels are normally automatically regulated by the nervous system. However, these levels can get dysregulated due to various reasons, which may cause a number of mental disorders.
 
-### Low Dopamine Levels Disorders
+#### Low Dopamine Levels Disorders
 
 A lack of dopamine can cause the following symptoms : 
 
-- Low energy, moodiness, lack of motivation, listlessness, boredom, apathy, decreased desire for enjoyable activities [[9]](https://pubmed.ncbi.nlm.nih.gov/27926449/)
+- Low energy, moodiness, lack of motivation, listlessness, boredom, apathy, decreased desire for enjoyable activities <sup>[9](https://pubmed.ncbi.nlm.nih.gov/27926449/)</sup>
 - Reduced appetite
 - Cravings for fatty and/or sweet foods
 - Trouble of concentration, shortness of attention, increased distractibility, inability to get things done
@@ -99,15 +99,15 @@ A lack of dopamine can cause the following symptoms :
 - Dependance to addictive substances or behaviours
 - Anxiety
 
-Dopamine deficiency is responsible for many psychological illnesses: [[10]](https://pubmed.ncbi.nlm.nih.gov/26770661/)
+Dopamine deficiency is responsible for many psychological illnesses: <sup>[10](https://pubmed.ncbi.nlm.nih.gov/26770661/)</sup>
 
-- Depression [[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5716179/), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC8113739/)]
+- Depression <sup>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5716179/), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC8113739/)</sup>
 - Parkinson’s Disease
-- Attention Deficit Hyperactivity Disorder (ADHD) [[13]](https://pubmed.ncbi.nlm.nih.gov/19738093/)
+- Attention Deficit Hyperactivity Disorder (ADHD) <sup>[13](https://pubmed.ncbi.nlm.nih.gov/19738093/)</sup>
 - Addiction and substance abuse
 - Anxiety disorder
 
-### High Dopamine Levels Disorders
+#### High Dopamine Levels Disorders
 
 Too much dopamine may feel extremely good, but it can also have negative effects. The following symptoms may be caused by abnormally high dopamine levels :
 
@@ -135,17 +135,17 @@ Some medications can be used to help balance dopamine levels, such as dopamine a
 
 It is imperative to consult a professional before taking these treatments. Fortunately, there are natural ways to balance your dopamine levels without medication.
 
-A natural way to increase dopamine levels is to partake in **healthy habits** [[14]](https://www.healthdirect.gov.au/dopamine), which help maintain the dopamine at stable levels [[15]](https://www.sciencedirect.com/science/article/abs/pii/S0006899318305973).
+A natural way to increase dopamine levels is to partake in **healthy habits** <sup>[14](https://www.healthdirect.gov.au/dopamine)</sup>, which help maintain the dopamine at stable levels <sup>[15](https://www.sciencedirect.com/science/article/abs/pii/S0006899318305973)</sup>.
 
-### Avoiding highly addictive dopamine-producing activities
+#### Avoiding highly addictive dopamine-producing activities
 
 See above.
 
-### Getting enough quality sleep
+#### Getting enough quality sleep
 
-Dopamine is released in large amounts in the morning when it’s time to wake up and that levels naturally fall in the evening when it’s time to sleep [[16]](https://www.nature.com/articles/s41386-020-00903-5). However, lack of sleep or low quality sleep disrupt these natural rhythms [[17]](https://doi.org/10.1523%2FJNEUROSCI.0045-12.2012).
+Dopamine is released in large amounts in the morning when it’s time to wake up and that levels naturally fall in the evening when it’s time to sleep <sup>[16](https://www.nature.com/articles/s41386-020-00903-5)</sup>. However, lack of sleep or low quality sleep disrupt these natural rhythms <sup>[17](https://doi.org/10.1523%2FJNEUROSCI.0045-12.2012)</sup>.
 
-Sleep quality [[18]](https://pmc.ncbi.nlm.nih.gov/articles/PMC4400203/) may be improved by :
+Sleep quality <sup>[18](https://pmc.ncbi.nlm.nih.gov/articles/PMC4400203/)</sup> may be improved by :
 
 - going to sleep and waking up at the same time every day
 - sleeping in a “suitable” environment : clean, ventilated, completely dark, silent, slightly cold bedroom
@@ -157,9 +157,9 @@ Sleep quality [[18]](https://pmc.ncbi.nlm.nih.gov/articles/PMC4400203/) may be i
 - exercising during the day (but not before sleeping)
 - avoiding melatonin supplements
 
-### Consuming nutritious and healthy food
+#### Consuming nutritious and healthy food
 
-Dopamine is synthesised in the body from tyrosine and phenylalanine, two amino acids that can be found in protein-rich foods [[19](https://link.springer.com/article/10.1007/s00426-017-0957-4), [20](https://pubmed.ncbi.nlm.nih.gov/25257259/)]. These includes :
+Dopamine is synthesised in the body from tyrosine and phenylalanine, two amino acids that can be found in protein-rich foods <sup>[19](https://link.springer.com/article/10.1007/s00426-017-0957-4), [20](https://pubmed.ncbi.nlm.nih.gov/25257259/)</sup>. These includes :
 
 - Avocados
 - Bananas
@@ -173,56 +173,56 @@ Other foods that can increase dopamine production are:
 
 - Fruits and vegetables, especially bananas
 - Foods rich in omega-3 fatty acids: salmon, mackerel, sardines, herring, oysters, ground flaxseeds, chia seeds, walnuts.
-- Natural probiotics supporting a healthy gut microbiome : kefir and yogurt [[21]](https://pubmed.ncbi.nlm.nih.gov/31098656/).
-- Some vitamins and minerals are required to produce dopamine : iron, folate (vitamin B9) and vitamin B6 (leafy greens, asparagus, broccoli, cauliflower, strawberries, avocado, poultry) [[22]](https://pubmed.ncbi.nlm.nih.gov/37299394/).
+- Natural probiotics supporting a healthy gut microbiome : kefir and yogurt <sup>[21](https://pubmed.ncbi.nlm.nih.gov/31098656/)</sup>.
+- Some vitamins and minerals are required to produce dopamine : iron, folate (vitamin B9) and vitamin B6 (leafy greens, asparagus, broccoli, cauliflower, strawberries, avocado, poultry) <sup>[22](https://pubmed.ncbi.nlm.nih.gov/37299394/)</sup>.
 
-Research has shown that drinking a moderate amount of coffee or tea increases the availability of dopamine receptors in the brain [[23]](https://www.nature.com/articles/tp201546).
+Research has shown that drinking a moderate amount of coffee or tea increases the availability of dopamine receptors in the brain <sup>[23](https://www.nature.com/articles/tp201546)</sup>.
 
 As mentioned previously, we should limit our consumption of processed sugars as it produces a fast dopamine rush.
 
-We should also eat less saturated fat (animal fat, butter, full-fat dairy, palm oil, and coconut oil), which disrupt dopamine levels when consumed in large amounts [[24]](https://www.cambridge.org/core/journals/nutrition-research-reviews/article/obesity-and-dietary-fat-influence-dopamine-neurotransmission-exploring-the-convergence-of-metabolic-state-physiological-stress-and-inflammation-on-dopaminergic-control-of-food-intake/A4E61D0D37E7A2D386735039BF76BEDD).
+We should also eat less saturated fat (animal fat, butter, full-fat dairy, palm oil, and coconut oil), which disrupt dopamine levels when consumed in large amounts <sup>[24](https://www.cambridge.org/core/journals/nutrition-research-reviews/article/obesity-and-dietary-fat-influence-dopamine-neurotransmission-exploring-the-convergence-of-metabolic-state-physiological-stress-and-inflammation-on-dopaminergic-control-of-food-intake/A4E61D0D37E7A2D386735039BF76BEDD)</sup>.
 
-### Exercising regularly
+#### Exercising regularly
 
-Regular exercise boosts endorphin levels but it can also help increase the production of dopamine [[25](https://linkinghub.elsevier.com/retrieve/pii/S0969996103000305), [26](https://www.mdpi.com/2076-3425/11/7/829)]. Physical activity improves the mood and helps with anxiety and depression.
+Regular exercise boosts endorphin levels but it can also help increase the production of dopamine <sup>[25](https://linkinghub.elsevier.com/retrieve/pii/S0969996103000305), [26](https://www.mdpi.com/2076-3425/11/7/829)</sup>. Physical activity improves the mood and helps with anxiety and depression.
 
-### Listening to music
+#### Listening to music
 
-Listening to music can boost dopamine levels in the brain [[27](https://doi.org/10.1038/nn.2726), [28](https://pubmed.ncbi.nlm.nih.gov/29499311/)].
+Listening to music can boost dopamine levels in the brain <sup>[27](https://doi.org/10.1038/nn.2726), [28](https://pubmed.ncbi.nlm.nih.gov/29499311/)</sup>.
 
-### Increasing social activity
+#### Increasing social activity
 
-Engaging in social activities such as meeting friends and family may help with maintaining stable dopamine levels [[29]](https://pubmed.ncbi.nlm.nih.gov/38486879/).
+Engaging in social activities such as meeting friends and family may help with maintaining stable dopamine levels <sup>[29](https://pubmed.ncbi.nlm.nih.gov/38486879/)</sup>.
 
-### Meditation
+#### Meditation
 
-Meditation can increase dopamine levels [[30](https://www.sciencedirect.com/science/article/abs/pii/S0926641001001069?via%3Dihub), [31](https://link.springer.com/article/10.3758/s13415-018-00665-0)].
+Meditation can increase dopamine levels <sup>[30](https://www.sciencedirect.com/science/article/abs/pii/S0926641001001069?via%3Dihub), [31](https://link.springer.com/article/10.3758/s13415-018-00665-0)</sup>.
 
-### Exposure to natural sunlight
+#### Exposure to natural sunlight
 
-Sunlight exposure can boost dopamine levels [[32]](https://www.ncbi.nlm.nih.gov/books/NBK568745/).
+Sunlight exposure can boost dopamine levels <sup>[32](https://www.ncbi.nlm.nih.gov/books/NBK568745/)</sup>.
 
-### Cold exposure
+#### Cold exposure
 
-Immersion in cold water increases dopamine concentration by 250% [[33](https://pubmed.ncbi.nlm.nih.gov/10751106/), [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC4049052/)].
+Immersion in cold water increases dopamine concentration by 250% <sup>[33](https://pubmed.ncbi.nlm.nih.gov/10751106/), [34](https://pmc.ncbi.nlm.nih.gov/articles/PMC4049052/)</sup>.
 
-### Physical contact
+#### Physical contact
 
-Massage, kissing, cuddling, stroking, tickling, hugging and sex increases oxytocin levels, but also dopamine concentration [[35]](https://pmc.ncbi.nlm.nih.gov/articles/PMC4701942/).
+Massage, kissing, cuddling, stroking, tickling, hugging and sex increases oxytocin levels, but also dopamine concentration <sup>[35](https://pmc.ncbi.nlm.nih.gov/articles/PMC4701942/)</sup>.
 
-### Intermittent fasting
+#### Intermittent fasting
 
-Intermittent fasting increases levels of dopamine [[36](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725115/), [37](https://pubmed.ncbi.nlm.nih.gov/15604149/)].
+Intermittent fasting increases levels of dopamine <sup>[36](https://pmc.ncbi.nlm.nih.gov/articles/PMC4725115/), [37](https://pubmed.ncbi.nlm.nih.gov/15604149/)</sup>.
 
 # How to Balance Dopamine Peaks
 
 We should not only seek to increase our dopamine levels in a healthy way, we should also make sure to manage the dopamine peaks so that the crashes don’t affect us too much.
 
-## Intermittent Dopamine Release
+#### Intermittent Dopamine Release
 
 It consists in limiting how often and predictably you indulge in dopamine-inducing activities. It involves celebrating wins selectively rather than every time. When you achieve a goal, sometimes enjoy and celebrate the success, and other times (at random), just keep going. Even better, associate “winning” with the effort process itself. This strategy—called "Random Intermittent Reward Timing" (RIRT)—is used by casinos to keep people engaged…
 
-## Avoid Combining Too Many Sources of Dopamine
+#### Avoid Combining Too Many Sources of Dopamine
 
 Layering many dopamine triggers—such as combining energy drinks, music, and physical workout can help motivate us to work towards a goal. However, it can numb our dopamine response, ultimately undermining our long-term motivation. 
 
@@ -230,7 +230,11 @@ Dopamine is said to have a “history” : the level of dopamine in our system n
 
 ![brain]({{ site.baseurl }}/assets/images/dopamine/brain.webp)
 
+
+---
+
 # Sources
+
 
 1. Shohamy D, Adcock RA. [Dopamine and adaptive memory](https://pubmed.ncbi.nlm.nih.gov/20829095/). Trends Cogn Sci. 2010;14(10):464-472.
 2. Franco R, Reyes-Resina I, Navarro G. [Dopamine in Health and Disease: Much More Than a Neurotransmitter](https://pubmed.ncbi.nlm.nih.gov/33499192/). Biomedicines. 2021;9(2):109.
