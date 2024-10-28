@@ -96,7 +96,7 @@ A lack of dopamine can cause the following symptoms :
 Dopamine deficiency is responsible for many psychological illnesses: <sup>[10](https://pubmed.ncbi.nlm.nih.gov/26770661/)</sup>
 
 - Depression <sup>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5716179/), [12](https://pmc.ncbi.nlm.nih.gov/articles/PMC8113739/)</sup>
-- Parkinson’s Disease
+- Parkinson’s disease
 - Attention Deficit Hyperactivity Disorder (ADHD) <sup>[13](https://pubmed.ncbi.nlm.nih.gov/19738093/)</sup>
 - Addiction and substance abuse
 - Anxiety disorder
@@ -133,7 +133,15 @@ A natural way to increase dopamine levels is to partake in **healthy habits** <s
 
 #### Avoiding highly addictive dopamine-producing activities
 
-See above.
+As mentioned above, we should avoid engaging too much in "easy" sources of dopamine, i.e. activities releasing a large amount of dopamine in a short time with little to no effort in achieving the reward. These activities include :
+
+- consumming social media
+- watching series
+- playing video games
+- gambling
+- sex and masturbation
+- consuming addictive drugs
+- consuming processed sugar
 
 #### Getting enough quality sleep
 
