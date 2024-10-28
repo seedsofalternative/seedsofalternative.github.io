@@ -36,23 +36,17 @@ Dopamine itself isn’t bad. It drives our motivation, willpower, focus and self
 
 # Dopamine Baseline
 
-The normal dopamine concentration determines our baseline. Our dopamine baseline level is affected by our actions, food we eat, on other hormones and even our thoughts. It is crucial to maintain a sufficiently high dopamine baseline to sustain our daily willpower — we don’t want it to be too low or too high.
+Dopamine is produced continuously and in small amounts in our system. The dopamine concentration in our system when no additional factors are stimulating its release determines our **baseline level**. This baseline is influenced by our actions, diet, other hormones, and even our thoughts. Keeping dopamine levels balanced is essential for sustaining willpower—too low or too high can disrupt this balance.
 
-When engaging or participating pleasurable experiences, our dopamine concentration spike above the baseline level, resulting in a feeling of high motivation and energy. A quick dopamine hit feels extremely good, but it is short-lived and can only offer temporary relief.
+When we engage in pleasurable activities, dopamine levels spike above baseline, creating a surge of motivation and energy. These quick dopamine hits feel extremely good, but this state is short-lived and it can only offer temporary relief. Once the pleasant activity ends, dopamine is no longer released and we see a rapid drop in dopamine levels. 
 
-Once the pleasant activity has ended, dopamine is no longer increasing and we see a rapid drop in dopamine levels. 
+Unlike adrenaline, dopamine takes time to produce. Because so much dopamine is consumed after a peak, we don’t have enough left to maintain our baseline level. This temporary dopamine shortage persists until the body produces enough to return to normal levels <sup>[7](https://jamanetwork.com/journals/jamaneurology/fullarticle/794743)</sup>. During this deficit, we experience a lack of motivation and energy, impacting our ability to tackle everyday tasks.
 
-Unlike adrenaline, dopamine takes time to produce and is slow to show its effects. When we deplete our stock of dopamine, we have to wait for the body to replenish for another spike.
-
-Because so much dopamine is consumed after a peak, we don’t have enough dopamine left to maintain our baseline level. This temporary dopamine shortage persists until the body produces enough to return to normal levels. During this deficit, we experience a lack of motivation and energy to perform everyday tasks.
-
-This drop below baseline creates a temporary dopamine shortage, which persists until the body produces enough to return to normal levels <sup>[7](https://jamanetwork.com/journals/jamaneurology/fullarticle/794743)</sup>.
-
-The intensity of this dopamine crash is proportional to the intensity of the peak. The higher the spike, the bigger the drop, and the more time is needed to return to a healthy baseline level.
+The intensity of the dopamine crash is proportional to the intensity of the peak. The higher the spike, the bigger the drop, and the more time is needed to return to a healthy baseline level.
 
 ![cheap_earned_dopamine]({{ site.baseurl }}/assets/images/dopamine/cheap_earned_dopamine.png)
 
-The more we engage in a pleasurable activity, the less it boosts our dopamine level, the less enjoyable it feels over time. Constant over-exposure to dopamine makes us less sensitive. That’s why the tenth scoop of ice cream doesn’t taste as good as the first. That’s why smokers have the need to smoke more cigarettes overtime of to choose stronger cigarettes.
+The more we engage in a pleasurable activity, the less it boosts our dopamine level, the less enjoyable it feels over time. Constant over-exposure to dopamine makes us **less sensitive**. That’s why the tenth scoop of ice cream doesn’t taste as good as the first. That’s why smokers have the need to smoke more cigarettes overtime of to choose stronger cigarettes.
 
 This loss in sensitivity is a defence mechanism to protect ourselves from overstimulation. However, by over-indulging in “cheap” dopamine-stimulating activities, we slowly condition ourselves to **addiction** <sup>[8](https://pubmed.ncbi.nlm.nih.gov/29142296/)</sup>.
 
@@ -190,7 +184,7 @@ Regular exercise boosts endorphin levels but it can also help increase the produ
 
 Listening to music can boost dopamine levels in the brain <sup>[27](https://doi.org/10.1038/nn.2726), [28](https://pubmed.ncbi.nlm.nih.gov/29499311/)</sup>.
 
-#### Increasing social activity
+#### Social connections
 
 Engaging in social activities such as meeting friends and family may help with maintaining stable dopamine levels <sup>[29](https://pubmed.ncbi.nlm.nih.gov/38486879/)</sup>.
 
