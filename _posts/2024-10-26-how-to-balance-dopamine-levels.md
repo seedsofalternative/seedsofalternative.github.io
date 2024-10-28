@@ -228,10 +228,11 @@ It consists in limiting how often and predictably you indulge in dopamine-induci
 
 Layering many dopamine triggers—such as combining energy drinks, music, and physical workout can help motivate us to work towards a goal. However, it can numb our dopamine response, ultimately undermining our long-term motivation. 
 
-Dopamine is said to have a “history” : the level of dopamine in our system now depends on past peaks and baseline levels. When we have multiple dopamine peaks, by riding a roller coaster followed by watching a movie, for example, the peak from the roller coaster would likely be considerable, and the movie that follows would seem boring as a result.
+Dopamine is said to have a “history” : the level of dopamine in our system now depends on past peaks and baseline levels. Experiencing multiple dopamine peaks consecutively can affect our response negatively. For example, after riding a roller coaster followed by watching a movie, the peak from the roller coaster would likely be considerable, and the movie that follows would seem boring as a result.
 
 ![brain]({{ site.baseurl }}/assets/images/dopamine/brain.webp)
 
+<br/><br/><br/><br/>
 
 ---
 
