@@ -139,6 +139,18 @@ Tibetan Buddhist scholar known for his work on Compassion, former monk and acade
 
 ![inpa]({{ site.baseurl }}/assets/images/buddhist_teachers/jinpa.jpeg)
 
+####  Khyentse Norbu (1961 - present)
+
+Tibetan/Bhutanese lama, filmmaker, and writer.
+
+![norbu]({{ site.baseurl }}/assets/images/buddhist_teachers/norbu.jpg)
+
+#### Bhikkhu Anālayo (1962 - present)
+
+German Theravada monk, scholar, and meditation teacher.
+
+![analayo]({{ site.baseurl }}/assets/images/buddhist_teachers/analayo.webp)
+
 #### Jetsun Khandro Rinpoche (1967 - present)
 
 Tibetan Lama and nun.

@@ -135,7 +135,7 @@ A natural way to increase dopamine levels is to partake in **healthy habits** <s
 
 As mentioned above, we should avoid engaging too much in "easy" sources of dopamine, i.e. activities releasing a large amount of dopamine in a short time with little to no effort in achieving the reward. These activities include :
 
-- consumming social media
+- consuming social media
 - watching series
 - playing video games
 - gambling
@@ -157,7 +157,7 @@ Sleep quality <sup>[18](https://pmc.ncbi.nlm.nih.gov/articles/PMC4400203/)</sup>
 - avoiding late dinners
 - not taking a long nap during the day
 - exercising during the day (but not before sleeping)
-- avoiding melatonin supplements
+- avoiding melatonin supplements (which may disrupt sleeping cycles and reduce natural production)
 
 #### Consuming nutritious and healthy food
 
