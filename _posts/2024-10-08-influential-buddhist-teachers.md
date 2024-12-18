@@ -31,15 +31,34 @@ Buddhist scholar of the Madhyamaka school and a noted commentator on the works o
 Indian philosopher, Buddhist monk, poet, scholar at Nālandā Monastic University, adherent of the Mādhyamaka philosophy. He is known for his work <i>A Guide to the Bodhisattva's Way of Life.</i>
 ![shantideva]({{ site.baseurl }}/assets/images/buddhist_teachers/shantideva.webp)
 
+#### Atisha (982 - 1054)
+
+The renowned Indian Buddhist master who came to Tibet to help in the revival of Buddhism and established the Kadam tradition. His text "Lamp on the Path to Enlightenment" was the first Lam Rim text.
+![atisha]({{ site.baseurl }}/assets/images/buddhist_teachers/atisha.jpeg)
+
 #### Guru Rinpoche, Padmasambhava (8<sup>th</sup> century)
 
 Indian Buddhist mystic who introduced Tantric Buddhism to Tibet and established the first Buddhist monastery there. Famous for his teachings on emptiness.
 ![Padmasambhava]({{ site.baseurl }}/assets/images/buddhist_teachers/Padmasambhava.webp)
 
+#### Yumo Mikyo Dorje (11th century)
+
+Kalachakra master and founder of the Jonang tradition.
+![yumo_mikyo_dorje]({{ site.baseurl }}/assets/images/buddhist_teachers/yumo_mikyo_dorje.jpg)
+
+#### Khön Könchok Gyalpo (1034 - 1102)
+Founder of the Sakya School of Tibetan Buddhism
+![gyalpo]({{ site.baseurl }}/assets/images/buddhist_teachers/gyalpo.jpeg)
+
 #### Milarepa (1052 - 1135)
 
 Famous poet and spiritual teacher in the Tibetan Buddhist tradition, master of the Kagyu tradition.
 ![milarepa]({{ site.baseurl }}/assets/images/buddhist_teachers/milarepa.webp)
+
+#### Dolpopa Sherab Gyaltsen (1292 - 1361)
+
+Influential member of the Jonang tradition of Tibetan Buddhism.
+![dolpopa]({{ site.baseurl }}/assets/images/buddhist_teachers/dolpopa.jpeg)
 
 #### Lama Tsongkhapa (1357 - 1419)
 
