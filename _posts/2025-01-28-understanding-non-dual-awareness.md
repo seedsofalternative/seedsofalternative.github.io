@@ -7,10 +7,6 @@ image: assets/images/non-dual-awareness/non-dual-awareness.webp
 featured: true
 ---
 
-This post is inspired from the teaching of Jetsunma Tenzin Palmo -- The Nature of the Mind.
-
-[https://youtu.be/7fPtYFEOJpc?si=O060BWUAsqJkaibT](https://youtu.be/7fPtYFEOJpc?si=O060BWUAsqJkaibT)
-
 We spend countless hours cleaning our homes and maintaining our physical appearance, but how much time do we dedicate to tidying up the space where we truly live—our minds? Just as we wouldn't want to live in a cluttered house, we shouldn't have to navigate through mental chaos day after day. Yet that's exactly what many of us do.
 
 Think about it: everything we experience, whether it's the warmth of sunlight on our skin or the complex emotions of falling in love, comes to us through our minds. Our sense organs may receive stimuli, but it's our minds that interpret and give meaning to these experiences. In essence, our minds are the projectors of our reality.
@@ -58,3 +54,9 @@ Remember, we're not trying to achieve something new or special. We're simply unc
 The next time you find yourself caught up in mental turbulence, pause and ask: Who is aware of all this? In that simple question lies the key to profound peace and clarity.
 
 Your mind is already perfect—vast, clear and peaceful like the sky. All you need to do is recognize it.
+
+---
+
+This post is based on the teaching of Jetsunma Tenzin Palmo -- The Nature of the Mind.
+
+<iframe width="420" height="315" src="https://youtu.be/7fPtYFEOJpc?si=O060BWUAsqJkaibT" frameborder="0" allowfullscreen></iframe>
