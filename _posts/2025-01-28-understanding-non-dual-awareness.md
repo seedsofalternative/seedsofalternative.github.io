@@ -59,5 +59,4 @@ Your mind is already perfect—vast, clear and peaceful like the sky. All you ne
 
 This post is based on the teaching of Jetsunma Tenzin Palmo -- The Nature of the Mind.
 
-<iframe width="480" height="360" src="https://youtu.be/7fPtYFEOJpc?si=O060BWUAsqJkaibT" frameborder="0"> </iframe>
-
+<iframe width="790" height="444" src="https://www.youtube.com/embed/7fPtYFEOJpc" title="The Nature of the Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
