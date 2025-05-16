@@ -4,7 +4,7 @@ title:  "How to Balance Dopamine Levels in a Healthy Way"
 author: pierre
 categories: [ health ]
 image: assets/images/dopamine/2sides_of_dopamine.webp
-featured: true
+featured: false
 ---
 
 We all want pleasure. Whenever we have a positive experience, we feel pleasure, making us want to repeat the experience. Dopamine is what connects experience with pleasure.

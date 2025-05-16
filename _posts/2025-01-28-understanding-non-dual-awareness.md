@@ -4,7 +4,8 @@ title:  "Understanding Non-dual Awareness : the True Nature of our Mind"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/non-dual-awareness/non-dual-awareness.webp
-featured: true
+featured: false
+youtubeId: 7fPtYFEOJpc
 ---
 
 We spend countless hours cleaning our homes and maintaining our physical appearance, but how much time do we dedicate to tidying up the space where we truly live—our minds? Just as we wouldn't want to live in a cluttered house, we shouldn't have to navigate through mental chaos day after day. Yet that's exactly what many of us do.
@@ -59,4 +60,5 @@ Your mind is already perfect—vast, clear and peaceful like the sky. All you ne
 
 This post is based on the teaching of Jetsunma Tenzin Palmo -- The Nature of the Mind.
 
-<iframe width="790" height="444" src="https://www.youtube.com/embed/7fPtYFEOJpc" title="The Nature of the Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
+
