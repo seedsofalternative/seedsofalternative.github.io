@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting to know yourself
-permalink: /instrospection
+permalink: /introspection
 comments: false
 ---
 
@@ -9,7 +9,7 @@ comments: false
 <div class="col-md-8 pr-5">
 
 
-<p>Posts in category "instrospection" are:</p>
+<p>Posts in category "introspection" are:</p>
 
 <ul>
   {% for post in site.categories.introspection %}

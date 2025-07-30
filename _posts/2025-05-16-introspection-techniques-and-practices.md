@@ -2,7 +2,7 @@
 layout: post
 title:  "Introspection Techniques and Practices"
 author: pierre
-categories: [ instrospection ]
+categories: [ introspection ]
 image: assets/images/introspection/incense.jpg
 featured: false
 ---
