@@ -8,8 +8,6 @@ featured: false
 ---
 
 
-## What is Nonviolent communication ?
-
 Nonviolent Communication (NVC), developed by psychologist Marshall Rosenberg, is a communication technique that encourages empathy and honesty in interactions. It helps you to express yourself clearly while listening to others with respect—even in difficult conversations. NVC shifts communication from blame and criticism to mutual understanding. It helps preventing escalating arguments and promotes more harmonious connections.
 
 >"We are dangerous when we are not conscious of our responsibility for how we behave, think, and feel."<br>
