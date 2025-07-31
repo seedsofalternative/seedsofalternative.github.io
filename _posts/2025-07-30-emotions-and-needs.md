@@ -17,7 +17,7 @@ Being aware of our emotions and being able to communicate them to others is key 
 ![nvc emotions]({{ site.baseurl }}/assets/images/nvc/nvc-emotions.webp)
 
 {:.image-caption}
-*[Source](https://www.dave-bailey.com/blog/nonviolent-communication)*
+*[Image credit](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
 
 
@@ -55,12 +55,14 @@ Being aware of our emotions and being able to communicate them to others is key 
 - involved
 - spellbound
 - stimulated
+- motivated
 
 #### EXCITED
 - amazed
 - animated
 - ardent
 - aroused
+- horny
 - astonished
 - dazzled
 - eager
@@ -72,6 +74,7 @@ Being aware of our emotions and being able to communicate them to others is key 
 - passionate
 - surprised
 - vibrant
+- jazzed
 
 #### EXHILARATED
 - blissful
@@ -107,6 +110,7 @@ Being aware of our emotions and being able to communicate them to others is key 
 - jubilant
 - pleased
 - tickled
+- playful
 
 #### PEACEFUL
 - calm
@@ -150,6 +154,9 @@ Being aware of our emotions and being able to communicate them to others is key 
 - terrified
 - wary
 - worried
+- concerned
+- shy
+- sceptical
 
 #### ANGRY
 - enraged
@@ -160,6 +167,8 @@ Being aware of our emotions and being able to communicate them to others is key 
 - livid
 - outraged
 - resentful
+- revolted
+- bitter
 
 #### ANNOYED
 - aggravated
@@ -194,6 +203,7 @@ Being aware of our emotions and being able to communicate them to others is key 
 - perplexed
 - puzzled
 - torn
+- reluctant
 
 #### DISCONNECTED
 - alienated
@@ -209,6 +219,8 @@ Being aware of our emotions and being able to communicate them to others is key 
 - removed
 - uninterested
 - withdrawn
+- empty
+- lazy
 
 #### DISQUIET
 - agitated
@@ -276,7 +288,7 @@ Being aware of our emotions and being able to communicate them to others is key 
 - gloomy
 - heavy hearted
 - hopeless
-- melancholy
+- melancholic
 - unhappy
 - wretched
 
@@ -316,7 +328,7 @@ Being aware of our emotions and being able to communicate them to others is key 
 ## Faux Feelings
 
 The following words are often confused as feelings when they are interpretations or assessments of others’ actions.
-- Abandoned
+- abandoned
 - abused
 - accused
 - attacked
@@ -378,6 +390,17 @@ The following words are often confused as feelings when they are interpretations
 - vilified
 - violated
 - wronged
+- exposed
+- inferior
+- insignificant
+- useless
+- valued
+- respected
+- accepted
+- loved
+- appreciated
+- understood
+
 
 ## Universal Human Needs
 
@@ -385,7 +408,7 @@ The following words are often confused as feelings when they are interpretations
 ![nvc needs]({{ site.baseurl }}/assets/images/nvc/nvc-needs.webp)
 
 {:.image-caption}
-*[Source](https://www.dave-bailey.com/blog/nonviolent-communication)*
+*[Image credit](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
 Another core concept of Nonviolent Communication is being able to express your needs. Expressing our own needs and acknowledging the needs of others enables us to create common ground.
 
@@ -403,7 +426,7 @@ Another core concept of Nonviolent Communication is being able to express your n
 - connection
 - consideration
 - consistency
-- contribution
+- contribution (to society)
 - cooperation
 - emotional freedom
 - emotional safety
@@ -422,6 +445,7 @@ Another core concept of Nonviolent Communication is being able to express your n
 - support
 - trust
 - understanding
+- help
 
 #### MEANING
 - awareness
@@ -508,7 +532,7 @@ Another core concept of Nonviolent Communication is being able to express your n
 - presence
 - self empowerment
 - solitude
-- space
+- (personal) space
 - spontaneity
 
 #### CELEBRATION OF LIFE
@@ -565,7 +589,20 @@ Another core concept of Nonviolent Communication is being able to express your n
 - trust
 - warmth
 
-
+#### OTHER
+- justice
+- financial stability
+- balance
+- fairness
+- responsability
+- humility
+- self esteem
+- self confidence
+- silence
+- let go
+- change
+- to cry
+- to be productive
 
 
 {:.image-caption}

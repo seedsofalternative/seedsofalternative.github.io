@@ -8,25 +8,28 @@ featured: false
 ---
 
 
-Nonviolent Communication (NVC), developed by psychologist Marshall Rosenberg, is a communication technique that encourages empathy and honesty in interactions. It helps you to express yourself clearly while listening to others with respect—even in difficult conversations. NVC shifts communication from blame and criticism to mutual understanding. It helps preventing escalating arguments and promotes more harmonious connections.
+Nonviolent Communication (NVC), developed by psychologist Marshall Rosenberg, is a communication technique that encourages empathy and honesty in interactions. It helps you to express yourself clearly while listening to others with respect—even in difficult conversations. NVC shifts communication from blame and criticism to mutual understanding, by reducing escalating arguments and promoting more harmonious connections.
+
+
+Article adapted from *[Dave Bailey](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
 >"We are dangerous when we are not conscious of our responsibility for how we behave, think, and feel."<br>
 ― Marshall B. Rosenberg, [Nonviolent Communication: A Language of Life](https://www.goodreads.com/search?q=nonviolent+communication&ref=nav_sb_noss_l_24)
 
 
-At the core of NVC is a straightforward communication pattern:
+At the core of NVC is a straightforward communication pattern composed of 4 key elements:
 
 ![nvc stages]({{ site.baseurl }}/assets/images/nvc/nvc-stages.webp)
 
 {:.image-caption}
-*[Source](https://www.dave-bailey.com/blog/nonviolent-communication)*
+*[Image credit](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
-At first glance, this looks easy. But in practice, it’s extremely difficult to pull off. To grasp the complexity, NVC makes some subtle but critical distinctions:
+This pattern seems easy, but applying it in real life situations is surprisingly challenging. NVC makes some subtle but critical distinctions:
 
 ![nvc elements]({{ site.baseurl }}/assets/images/nvc/nvc-four-elements.webp)
 
 {:.image-caption}
-*[Source](https://www.dave-bailey.com/blog/nonviolent-communication)*
+*[Image credit](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
 Understanding these nuances is key to handling difficult conversations. Let’s go through each of the four components step-by-step.
 
@@ -55,10 +58,7 @@ Here are a few examples to illustrate the difference:
 - Evaluation: ‘You ignored me.’ (implied intent)
 - Observation: ‘I sent you two emails and I haven’t received a response.’
 
-- Evaluation: ‘You're always late!’
-- Observation: ‘I noticed you arrived 20 minutes late.’
-
-An easy way to check whether you’ve made an observation or an evaluation is to ask yourself, ‘What did I actually see or hear? 
+An easy way to check whether you’ve made an observation or an evaluation is to ask yourself, ‘What did I actually see or hear?’ 
 
 ## 2. Emotions vs. Thoughts
 
@@ -94,6 +94,8 @@ Anger often masks more painful emotions like hurt and shame. It’s important to
 
 #### Evaluative words (faux feelings)
 
+Some words are confused as feelings when they are interpretations or assessments of others’ actions.
+
 Consider the phrase, ‘I feel blamed’. Doesn’t it sound a lot like the evaluation, ‘You blamed me’? To reduce the chance of a defensive response like, ‘I didn’t blame you’, NVC asks that you identify the evaluation and recognise how it impacts you emotionally. For example, feeling ‘blamed’ might leave you feeling ‘scared’. Here are some others:
 
 - Evaluation: ‘I feel judged.’
@@ -103,6 +105,7 @@ Consider the phrase, ‘I feel blamed’. Doesn’t it sound a lot like the eval
 - Evaluation: ‘I feel rejected.’
 - Impact: ‘I feel hurt.’
 
+A list of faux feelings can be found on this [post]({{ site.baseurl }}/emotions-and-needs/).
 
 ## 3. Universal Needs vs. Strategies
 
@@ -134,7 +137,7 @@ Not everything that follows the words, ‘I need’ is a universal need. NVC dis
 ![nvc-leave-you-out]({{ site.baseurl }}/assets/images/nvc/nvc-leave-you-out.webp)
 
 {:.image-caption}
-*[Source](https://www.dave-bailey.com/blog/nonviolent-communication)*
+*[Image credit](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
 There’s a subtle but important point to make here. As soon as you include ‘from you’ in the need statement, it stops being universal. Compare the following statements:
 
@@ -151,7 +154,7 @@ Can you see how the first version could be more easily interpreted as a veiled a
 ![nvc-request-best-practice]({{ site.baseurl }}/assets/images/nvc/nvc-request-best-practice.webp)
 
 {:.image-caption}
-*[Source](https://www.dave-bailey.com/blog/nonviolent-communication)*
+*[Image credit](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
 The last stage of the NVC process is to formulate a clear, actionable request, but not a demand. What is the difference between a request and a demand? Both are strategies that would meet an unmet need. But unlike demands, requests are invitations for the other person to meet our needs... but only if it isn’t in conflict with one of their needs.
 
