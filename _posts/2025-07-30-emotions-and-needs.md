@@ -534,6 +534,7 @@ Another core concept of Nonviolent Communication is being able to express your n
 - solitude
 - (personal) space
 - spontaneity
+- dignity
 
 #### CELEBRATION OF LIFE
 - aliveness
