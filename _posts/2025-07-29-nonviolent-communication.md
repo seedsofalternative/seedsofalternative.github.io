@@ -11,7 +11,7 @@ featured: false
 Nonviolent Communication (NVC), developed by psychologist Marshall Rosenberg, is a communication technique that encourages empathy and honesty in interactions. It helps you to express yourself clearly while listening to others with respect—even in difficult conversations. NVC shifts communication from blame and criticism to mutual understanding, by reducing escalating arguments and promoting more harmonious connections.
 
 
-Article adapted from *[Dave Bailey](https://www.dave-bailey.com/blog/nonviolent-communication)*
+Article adapted from *[Dave Bailey](https://www.dave-bailey.com/blog/nonviolent-communication)*.
 
 >"We are dangerous when we are not conscious of our responsibility for how we behave, think, and feel."<br>
 ― Marshall B. Rosenberg, [Nonviolent Communication: A Language of Life](https://www.goodreads.com/search?q=nonviolent+communication&ref=nav_sb_noss_l_24)
@@ -46,17 +46,12 @@ Our brains are hardwired to take raw information and instantly make up a simple 
 
 Here are a few examples to illustrate the difference:
 
-- Evaluation: ‘You are lazy.’ (a character attack)
-- Observation: ‘You said that you’d send the document last week and I haven’t received it.’
-
-- Evaluation: ‘Your work is sloppy.’ (a criticism)
-- Observation: ‘Three of the numbers in the report were inaccurate.’
-
-- Evaluation: ‘You’re always late.’ (a generalisation)
-- Observation: ‘You arrived ten minutes late to the meeting this morning.’
-
-- Evaluation: ‘You ignored me.’ (implied intent)
-- Observation: ‘I sent you two emails and I haven’t received a response.’
+|<span style="color:red">Evaluation</span> ❌ | <span style="color:green">Observation</span> ✅                           |
+|------------------------------------------|------------------------------------------------------------------------------|
+| ‘You are lazy.’ (a character attack)     | ‘You said that you’d send the document last week and I haven’t received it.’ |
+| ‘Your work is sloppy.’ (a criticism)     | ‘Three of the numbers in the report were inaccurate.’                        |
+| ‘You’re always late.’ (a generalisation) | ‘You arrived ten minutes late to the meeting this morning.’                  |
+| ‘You ignored me.’ (implied intent)       | ‘I sent you two emails and I haven’t received a response.’                   |
 
 An easy way to check whether you’ve made an observation or an evaluation is to ask yourself, ‘What did I actually see or hear?’ 
 
@@ -64,26 +59,21 @@ An easy way to check whether you’ve made an observation or an evaluation is to
 
 Being aware of our emotions and being able to communicate them to others is key to healthy communication. Expanding your emotional vocabulary and deepening self-awareness can significantly enhance how you connect with yourself and others. Have a look at this [post]({{ site.baseurl }}/emotions-and-needs/) to improve your emotional literacy by learning what words you can use to express emotions, with more nuances than "I feel good" or "I feel bad".
 
-Common universal needs that come up a lot in difficult conversations are:
-- Autonomy
-- Collaboration
-- Consistency
-- Connection
-- Clarity
-- Empathy
-- Integrity
-- Recognition
-- Respect
-- Reassurance
-- Security
-- Support
-- Understanding
+Some common words people use to describe how they feel during a difficult conversation are:
+- Scared
+- Annoyed
+- Anxious
+- Confused
+- Embarrassed
+- Hurt
+- Sad
+- Tired
 
+The choice of words we use is important because often, what comes after ‘I feel,’ isn’t an emotion — it’s a thought. Compare the following example: 
 
-The choice of words we use is important because often, what comes after ‘I feel,’ isn’t an emotion — it’s a thought. Compare the following examples: 
-
-- Thought: ‘I feel that you aren’t taking this seriously.’
-- Emotion: ‘I feel frustrated.’
+| <span style="color:red">Thought</span> ❌       | <span style="color:green">Emotion</span> ✅ |
+|-------------------------------------------------|----------------------|
+| ‘I feel that you aren’t taking this seriously.’ | ‘I feel frustrated.’ |
 
 If you can substitute ‘I feel’ with ‘I think’ and the phrase still works, it’s a thought, not an emotion. And sharing our thoughts in difficult conversations can often get us into trouble, especially if the other person disagrees and wants to correct you.
 
@@ -98,12 +88,11 @@ Some words are confused as feelings when they are interpretations or assessments
 
 Consider the phrase, ‘I feel blamed’. Doesn’t it sound a lot like the evaluation, ‘You blamed me’? To reduce the chance of a defensive response like, ‘I didn’t blame you’, NVC asks that you identify the evaluation and recognise how it impacts you emotionally. For example, feeling ‘blamed’ might leave you feeling ‘scared’. Here are some others:
 
-- Evaluation: ‘I feel judged.’
-- Impact: ‘I feel resentful.’
-- Evaluation: ‘I feel misunderstood.’
-- Impact: ‘I feel frustrated.’
-- Evaluation: ‘I feel rejected.’
-- Impact: ‘I feel hurt.’
+| <span style="color:red">Evaluation</span> ❌   | <span style="color:green">Impact</span> ✅ |
+|-------------------------|----------------------|
+| ‘I feel judged.’        | ‘I feel resentful.’  |
+| ‘I feel misunderstood.’ | ‘I feel frustrated.’ |
+| ‘I feel rejected.’      | ‘I feel hurt.’       |
 
 A list of faux feelings can be found on this [post]({{ site.baseurl }}/emotions-and-needs/).
 
@@ -126,25 +115,23 @@ Common universal needs that come up a lot in difficult conversations are:
 - Support
 - Understanding
 
-A longer list of universal human needs can be found on this [post]({{ site.baseurl }}/emotions-and-needs/). 
+A more exhaustive list of universal human needs can be found on this [post]({{ site.baseurl }}/emotions-and-needs/). 
 
-Not everything that follows the words, ‘I need’ is a universal need. NVC distinguishes between our universal needs and the strategies that would meet our needs. You can say, ‘I need a sandwich,’ but that doesn’t mean sandwiches are a universal need.  Eating a sandwich is a strategy to meet your need for nourishment. Here’s another example:
-
-- Strategy: ‘I need you to copy me into every email.’
-- Universal need: ‘I need some transparency.’
-
+Not everything that follows the words, ‘I need’ is a universal need. NVC distinguishes between our universal needs and the strategies that would meet our needs. You can say, ‘I need a sandwich,’ but that doesn’t mean sandwiches are a universal need.  Eating a sandwich is a strategy to meet your need for nourishment.
 
 ![nvc-leave-you-out]({{ site.baseurl }}/assets/images/nvc/nvc-leave-you-out.webp)
 
 {:.image-caption}
 *[Image credit](https://www.dave-bailey.com/blog/nonviolent-communication)*
 
-There’s a subtle but important point to make here. As soon as you include ‘from you’ in the need statement, it stops being universal. Compare the following statements:
+There’s a subtle but important point to make here. As soon as you include ‘from you’ in the need statement, it stops being universal. When I say ‘I need support from you’, it can be easily interpreted as a veiled accusation, i.e. it implies that ‘You aren’t supporting me’. To minimise the chance of defensiveness, NVC tells us to leave other people out of our needs.
 
-- Strategy: ‘I need support from you.’
-- Universal need: ‘I need support.’
+Here are some examples to express your needs and not using it as a manipulation strategy:
 
-Can you see how the first version could be more easily interpreted as a veiled accusation? ‘You aren’t supporting me,’ is the implication. To minimise the chance of defensiveness, NVC tells us to leave other people out of our needs.
+| <span style="color:red">Strategy</span> ❌| <span style="color:green">Universal need</span> ✅ |
+|-------------------------------------------|-----------------------------|
+| ‘I need you to copy me into every email.’ | ‘I need some transparency.’ |
+| ‘I need support from you.’                | ‘I need support.’           |
 
 
 
