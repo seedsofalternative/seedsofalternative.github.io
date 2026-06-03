@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buddhism
-permalink: /philosophy/buddhism
+permalink: /spirituality/buddhism
 comments: false
 ---
 

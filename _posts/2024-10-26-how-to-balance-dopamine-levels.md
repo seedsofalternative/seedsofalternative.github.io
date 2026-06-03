@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Balance Dopamine Levels in a Healthy Way"
 author: pierre
-categories: [ health ]
+categories: [ psychology ]
 image: assets/images/dopamine/2sides_of_dopamine.webp
 featured: false
 ---

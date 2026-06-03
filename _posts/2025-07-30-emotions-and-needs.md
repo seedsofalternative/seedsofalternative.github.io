@@ -2,7 +2,7 @@
 layout: post
 title:  "NVC : Expressing Emotions and Needs"
 author: pierre
-categories: [ society ]
+categories: [ psychology ]
 image: assets/images/nvc/emotions.webp
 featured: false
 ---

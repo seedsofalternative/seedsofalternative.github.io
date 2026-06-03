@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Health and Well-being
-permalink: /health
+title: Physical Wellbeing
+permalink: /wellbeing
 comments: false
 ---
 
@@ -9,10 +9,10 @@ comments: false
 <div class="col-md-8 pr-5">
 
 
-<p>Posts in category "health" are:</p>
+<p>The posts in category "wellbeing" are:</p>
 
 <ul>
-  {% for post in site.categories.health %}
+  {% for post in site.categories.wellbeing %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}

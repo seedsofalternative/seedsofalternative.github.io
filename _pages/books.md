@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Getting to know yourself
-permalink: /introspection
+title: Book Summaries
+permalink: /books
 comments: false
 ---
 
@@ -9,10 +9,10 @@ comments: false
 <div class="col-md-8 pr-5">
 
 
-<p>Posts in category "introspection" are:</p>
+<p>The posts in category "books" are:</p>
 
 <ul>
-  {% for post in site.categories.introspection %}
+  {% for post in site.categories.books %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use Nonviolent Communication"
 author: pierre
-categories: [ society ]
+categories: [ psychology ]
 image: assets/images/nvc/nonviolent-communication-book.webp
 featured: false
 ---

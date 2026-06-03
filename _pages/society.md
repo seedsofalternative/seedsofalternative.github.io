@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alternative society
+title: Alternative Ideas to Organise Society
 permalink: /society
 comments: false
 ---

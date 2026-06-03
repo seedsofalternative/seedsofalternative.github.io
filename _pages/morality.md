@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Morality and Ethics
-permalink: /philosophy/morality
+permalink: /spirituality/morality
 comments: false
 ---
 
