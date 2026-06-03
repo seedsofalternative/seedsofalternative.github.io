@@ -3,7 +3,7 @@ layout: post
 title:  "Part IV — Are Your Values Actually Good for You ?"
 author: pierre
 categories: [ psychology ]
-image: assets/images/values/values.png
+image: assets/images/values/leonhard-niederwimmer-70H8nM0Uels-unsplash.jpg
 featured: false
 tags: [psychology, values, wellbeing, self-development]
 description: "Not all values lead to well-being. Learn how to examine whether your values are genuinely good for you — and how to distinguish life-enhancing values from those that hold you back."

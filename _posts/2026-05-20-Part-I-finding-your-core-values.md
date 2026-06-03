@@ -3,7 +3,7 @@ layout: post
 title:  "Part I — Finding your core values : Why it matters ?"
 author: pierre
 categories: [ psychology ]
-image: assets/images/values/values.png
+image: assets/images/values/austin-neill-ZahNAl_Ic3o-unsplash.jpg
 featured: false
 tags: [psychology, values, self-development, meaning]
 description: "Core values are the compass of a meaningful life. This first part explores what values are, why identifying them matters, and what happens when we live out of alignment with them."

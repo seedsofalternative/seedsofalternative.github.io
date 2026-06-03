@@ -3,7 +3,7 @@ layout: post
 title:  "Part III — How to Prioritize your Values ?"
 author: pierre
 categories: [ psychology ]
-image: assets/images/values/values.png
+image: assets/images/values/malek-larif-6AXRm87pfAU-unsplash.jpg
 featured: false
 tags: [psychology, values, decision-making, self-development]
 description: "You can't live every value at once. Learn how to rank your values, navigate conflicts between them, and make decisions that honour what matters most to you."
