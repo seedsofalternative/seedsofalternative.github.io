@@ -4,6 +4,9 @@ title:  "The Three Poisons : Delusions of the Mind"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/delusions/3poisons.webp
+featured: false
+tags: [buddhism, mind, suffering, three-poisons]
+description: "The Three Poisons — attachment, aversion, and ignorance — are the root causes of suffering in Buddhism. Learn how these mental delusions trap us and how to work with them."
 ---
 
 In our daily lives, it's common to blame external circumstances for our unhappiness. We might think we're suffering because we lack money, relationships, or recognition. However, the Buddha's Second Noble Truth—the truth of the origin of suffering—teaches us that the root of our suffering lies not outside but within ourselves.

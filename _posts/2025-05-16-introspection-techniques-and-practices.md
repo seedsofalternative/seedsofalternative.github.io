@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/introspection/incense.jpg
 featured: false
+tags: [psychology, introspection, spirituality, self-awareness]
+description: "A broad survey of introspective practices from traditions worldwide — meditation, journaling, breathwork, and more — to help you explore your inner landscape more deeply."
 ---
 
 During my travels, I encountered remarkably diverse cultures. Yet one universal thread connects people across the world: spirituality—the search for the divine and the longing to understand oneself and one’s mind more deeply. 

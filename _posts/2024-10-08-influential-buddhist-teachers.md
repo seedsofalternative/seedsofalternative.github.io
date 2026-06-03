@@ -4,6 +4,9 @@ title:  "Influential Buddhist Teachers"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/buddhist_teachers/nagarjuna.webp
+featured: false
+tags: [buddhism, teachers, history, spirituality]
+description: "A chronological introduction to influential Buddhist teachers — from ancient masters like Nagarjuna and Atisha to modern teachers like Thich Nhat Hanh, the Dalai Lama, and Pema Chodron."
 ---
 
 When I first discovered the Buddhist world, I was confused about all the personalities and famous teachers that everyone seems to know about. Here is a short introduction to some of the main teachers in Buddhism, by chronological order.

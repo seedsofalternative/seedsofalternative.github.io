@@ -4,6 +4,9 @@ title:  "The Art of Meditation"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/meditation/stone-stacking.jpg
+featured: false
+tags: [buddhism, meditation, mindfulness, spirituality]
+description: "A comprehensive guide to meditation: what it is and what it is not, its goals and benefits, and an overview of the many different forms of meditation across traditions."
 ---
 
 Meditation is an ancient technique practiced by many traditions worldwide, such as Hinduism, Yoga, Buddhism, Sikkhism, Sufism or Taoism. As we have seen in previous articles, meditation is key to understanding our [mind]({{ site.baseurl }}/the-mind) and to work towards the state of lasting [happiness]({{ site.baseurl }}/happiness). In this blog post, we’ll explore what meditation actually is, what are its goals and benefits, and what are the different forms of meditation.

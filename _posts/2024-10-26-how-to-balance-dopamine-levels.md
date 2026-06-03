@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/dopamine/2sides_of_dopamine.webp
 featured: false
+tags: [psychology, dopamine, wellbeing, neuroscience]
+description: "Understand how dopamine works in the brain and learn practical, healthy strategies to maintain balanced dopamine levels for sustained well-being and motivation."
 ---
 
 We all want pleasure. Whenever we have a positive experience, we feel pleasure, making us want to repeat the experience. Dopamine is what connects experience with pleasure.

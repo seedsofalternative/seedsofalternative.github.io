@@ -32,7 +32,7 @@ post_class: post-template
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                        <a target="_blank" rel="noopener noreferrer" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" rel="noopener noreferrer" href="{{ author.twitter }}" class="btn follow">Follow</a>
                         <span class="author-description">{{ author.description }}</span>
                     </div>
                 </div>
@@ -157,6 +157,31 @@ post_class: post-template
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title | escape }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.last_modified_at %}"dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",{% else %}"dateModified": "{{ page.date | date_to_xmlschema }}",{% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "{{ author.display_name | escape }}",
+    "url": "{{ author.web }}"
+  },
+  {% if page.image %}"image": "{{ page.image | absolute_url }}",{% endif %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.name | escape }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo | absolute_url }}"
+    }
+  },
+  "description": "{{ page.description | default: page.excerpt | strip_html | strip_newlines | escape }}"
+}
+</script>
+
 {% if page.rating %}
 <script type="application/ld+json">
 {

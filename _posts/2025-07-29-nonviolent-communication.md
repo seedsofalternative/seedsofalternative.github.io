@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/nvc/nonviolent-communication-book.webp
 featured: false
+tags: [psychology, communication, nvc, relationships]
+description: "Nonviolent Communication (NVC) by Marshall Rosenberg is a practical framework for expressing yourself honestly and listening with empathy — even in the most difficult conversations."
 ---
 
 

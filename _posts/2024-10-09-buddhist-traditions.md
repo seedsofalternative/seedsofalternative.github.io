@@ -4,6 +4,9 @@ title:  "The different Buddhist Traditions"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/buddhist_traditions/buddhist_traditions.png
+featured: false
+tags: [buddhism, theravada, mahayana, vajrayana, spirituality]
+description: "Explore the three main Buddhist traditions — Theravada, Mahayana, and Vajrayana — their origins, practices, and distinctive approaches to the path toward liberation."
 ---
 
 Entering the world of Buddhism can be confusing, as there are many different traditions out there. However, it's important to understand that the Buddha did not intend to create a new religion with a fixed doctrine. In fact, during his lifetime, he made it clear that his intention was not to teach a rigid system of beliefs, but rather to show a path that individuals could follow for their own personal development.

@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/values/values.png
 featured: false
+tags: [psychology, values, self-development, exercises]
+description: "Practical exercises to help you uncover your true core values — free from social pressure — so you can live with greater clarity, purpose, and authenticity."
 ---
 
 In Part I, we've seen the definition of core values, and why identifying your core values is an essential condition for a fulfillling life. 

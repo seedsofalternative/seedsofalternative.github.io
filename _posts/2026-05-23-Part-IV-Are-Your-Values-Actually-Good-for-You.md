@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/values/values.png
 featured: false
+tags: [psychology, values, wellbeing, self-development]
+description: "Not all values lead to well-being. Learn how to examine whether your values are genuinely good for you — and how to distinguish life-enhancing values from those that hold you back."
 ---
 
 

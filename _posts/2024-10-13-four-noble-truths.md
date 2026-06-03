@@ -4,6 +4,9 @@ title:  "The Four Noble Truths"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/four-noble-truths/buddha_teaching.webp
+featured: false
+tags: [buddhism, suffering, liberation, noble-eightfold-path]
+description: "The Four Noble Truths are the foundation of Buddhist teaching — a clear framework for understanding suffering, its causes, its end, and the Noble Eightfold Path to liberation."
 ---
 
 The Buddha was an ordinary human who attained enlightenment through his own efforts and dedicated his life to sharing his wisdom to help others do the same. His first teaching, delivered in Sarnath near Varanasi, India, introduced the **Four Noble Truths**—one of the core teachings in Buddhism. This teaching offers insight into the nature of human suffering and outlines the path to overcoming it, providing a clear path towards liberation.

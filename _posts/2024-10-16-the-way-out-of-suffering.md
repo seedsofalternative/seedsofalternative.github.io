@@ -4,6 +4,9 @@ title:  "The Way Out of Suffering"
 author: pierre
 categories: [ buddhism ]
 image: assets/images/way_out_of_suffering/way-out.jpg
+featured: false
+tags: [buddhism, liberation, vipassana, mahayana]
+description: "Explore the Mahayana and Vipassana approaches to ending suffering — two complementary Buddhist paths that offer practical methods for achieving lasting peace and liberation."
 ---
 
 In the quest for freedom from suffering, two prominent Buddhist traditions offer distinct yet complementary approaches: the Mahayana and Vipassana traditions. Both are rooted in the Buddha's teachings and aim at reaching a state of lasting peace and liberation, yet they provide different pathways for understanding and addressing the root causes of human dissatisfaction.

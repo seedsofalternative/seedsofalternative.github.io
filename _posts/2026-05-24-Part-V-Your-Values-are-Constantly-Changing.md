@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/values/values.png
 featured: false
+tags: [psychology, values, personal-growth, self-development]
+description: "Values evolve as we grow and gain new perspectives. Understand why your values change over time and how to embrace that evolution as a natural sign of personal growth."
 ---
 
 

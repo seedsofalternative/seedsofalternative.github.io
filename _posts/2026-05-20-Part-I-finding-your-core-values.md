@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/values/values.png
 featured: false
+tags: [psychology, values, self-development, meaning]
+description: "Core values are the compass of a meaningful life. This first part explores what values are, why identifying them matters, and what happens when we live out of alignment with them."
 ---
 
 

@@ -5,6 +5,8 @@ author: pierre
 categories: [ psychology ]
 image: assets/images/nvc/emotions.webp
 featured: false
+tags: [psychology, emotions, nvc, self-awareness]
+description: "Expand your emotional vocabulary with a comprehensive list of feeling words and universal human needs to communicate more clearly and connect more deeply with yourself and others."
 ---
 
 

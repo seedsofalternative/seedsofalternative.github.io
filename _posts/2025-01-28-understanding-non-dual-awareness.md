@@ -5,6 +5,8 @@ author: pierre
 categories: [ buddhism ]
 image: assets/images/non-dual-awareness/non-dual-awareness.webp
 featured: false
+tags: [buddhism, non-duality, consciousness, meditation]
+description: "Non-dual awareness is the true nature of the mind — a state of pure, open consciousness beyond subject and object. Discover what it means and how to recognise it in your experience."
 youtubeId: 7fPtYFEOJpc
 ---
 
