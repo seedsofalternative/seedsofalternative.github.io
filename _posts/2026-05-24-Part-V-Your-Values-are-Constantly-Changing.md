@@ -12,7 +12,7 @@ description: "Values evolve as we grow and gain new perspectives. Understand why
 
 Most people think their values are fixed. You either care about something or you don’t. You were raised that way or you weren’t. 
 
-Your values are actually **flexible, and they’re always shifting**—whether you’re conscious of it or not. Sometimes values evolve gradually. Other times, something cracks them wide open. Values are shaped by experience, influenced by environment, and changed through choice. And if you’re intentional, you can actually upgrade them. Here’s how values shift (and how you can make it happen on purpose).
+Your values are actually **flexible, and they’re always shifting**, whether you’re conscious of it or not. Sometimes values evolve gradually. Other times, something cracks them wide open. Values are shaped by experience, influenced by environment, and changed through choice. And if you’re intentional, you can actually upgrade them. Here’s how values shift (and how you can make it happen on purpose).
 
 # Cognitive Dissonance
 
@@ -38,13 +38,13 @@ You don’t need trauma to grow. But if you’ve been through something hard, yo
 
 Charlie Munger said it best: _“Show me the incentive and I’ll show you the behavior.”_
 
-The rewards and pressures we’re surrounded by _also_ shape what we claim to value—whether we realize it or not. But here’s the trick: **Real values stick when they’re chosen freely.** Not forced. Not bribed. Not guilted.
+The rewards and pressures we’re surrounded by _also_ shape what we claim to value, whether we realize it or not. But here’s the trick: **Real values stick when they’re chosen freely.** Not forced. Not bribed. Not guilted.
 
 So if you want to adopt a new value like health, honesty, or growth? Start small. Let the action build the identity.
 
 Ask yourself:
 - _When was the last time your values changed?_
-- _What triggered it—and what did you do about it?_
+- _What triggered it? What did you do about it?_
 
 ---
 

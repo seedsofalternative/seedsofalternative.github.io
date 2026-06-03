@@ -54,31 +54,36 @@ Your values aren't just revealed by what you love. They're also revealed by what
 Annoyance, irritation, frustration—these feelings are data.  Identifying what frustrates you reveals the values you think are worth protecting.
 
 
-## The Desert Island experiment
+## The Desert Island Experiment
 
-Imagine you were stranded on a desert island all alone, but the island is full of everything you could need or want—total abundance. Not only are your basic needs covered, but you also have access to anything you could want to explore your hobbies and interests, dreams and desires. 
+Imagine you are stranded on a desert island all alone, but the island is full of everything you could need or want—total abundance. Not only are your basic needs covered, but you also have access to anything you could want to explore your hobbies and interests, dreams and desires. 
 
 1. List the top 3-5 things you would spend most of your time doing.
+
    Would you read a bunch of books? Watch a bunch of movies? Listen to new music? Work on your favorite hobbies? Write that novel? Write poetry? Build out that business idea? Study astrophysics? Work on those bicep curls?
 
 2. Identify the gap: Compare this to the way you currently spend your time.
+
    How big of a gap can you identify here? Obviously, there are some things we just have to do in life whether we want to or not. But ideally, you want your real life to reflect this hypothetical life to the greatest extent possible. 
 
 The value of this exercise is found in taking away all the outside social pressure to conform to the values of others. It's just you and you alone. A large gap between your desert island self and your real-life self probably means you're allowing other people to define your values for you.
 
 ## Imagine your Funeral
 
-Now let's take the opposite approach and remove you from the equation. What do you want to be known for? Picture yourself at the end of a long, fulfilling life. A close friend stands up to deliver a speech at your funeral—what do you hope they'll say about you?
+Now let's take the opposite approach and remove you from the equation. What do you want to be known for? Picture yourself at the end of a long, fulfilling life. A close friend stands up to deliver a speech at your funeral. What do you hope they'll say about you?
 
-1. Think of three to five words or phrases you'd want to hear
+1. Think of three to five words or phrases you'd want to hear.
+
    For example: "always supportive," "never afraid to speak the truth," or "relentlessly curious."
-2. Ask yourself why
+
+2. Ask yourself why.
+
    Each of those phrases hints at a deeper value. "Supportive" might reflect compassion or loyalty. "Honesty" can be about integrity or authenticity.
 
 # Schwartz's Values Wheel
 
 
-Psychologist Shalom Schwartz conducted cross-cultural research to identify common human values. He found that across many cultures, people consistently mention about ten broad categories of values. These are often visualized in a circular diagram or "Values Wheel," illustrating how some values are compatible and some are in tension. The ten basic values Schwartz identified, each with a defining goal, are: 
+Psychologist Shalom Schwartz conducted cross-cultural research to identify common human values. He found that across many cultures, people consistently mention about ten broad categories of values. These are often visualized in a circular diagram or "Values Wheel," illustrating how some values are compatible and some are in tension. The ten basic values Schwartz identified are: 
 
 - **Self-transcendence**
 	- *Benevolence*: Preservation and enhancement of the welfare of people with whom one is in frequent personal contact. 
@@ -102,9 +107,9 @@ Psychologist Shalom Schwartz conducted cross-cultural research to identify commo
 
 In this model, values that sit next to each other share similar motivations and can be pursued together, while values on opposite sides tend to conflict. 
 
-For example, Stimulation (seeking excitement) and Self-Direction (valuing independence) are closely related, as both emphasize openness to change. However, Stimulation is directly opposed to Security (seeking stability and safety), meaning that situations that encourage excitement often undermine feelings of comfort. 
+For example, stimulation (seeking excitement) and self-Direction (valuing independence) are closely related, as both emphasize openness to change. However, stimulation is directly opposed to security (seeking stability and safety), meaning that situations that encourage excitement often undermine feelings of comfort. 
 
-This circular arrangement reveals an important aspect: human values are not just a list, but a system shaped by tensions and alignments, much like colors blending into each other on a color wheel. Values that are closely located to one another reinforce each other. Values that are far away from each other discourage one another. The Values Wheel highlights why we often feel internal conflict: our values themselves conflict. As we will see later on in this guide, this is not a bug of human psychology, but a feature. 
+This circular arrangement reveals an important aspect: human values are not just a list, but a system shaped by tensions and alignments, much like colors blending into each other on a color wheel. Values that are closely located to one another reinforce each other. Values that are far away from each other discourage one another. The Values Wheel highlights why we often feel internal conflict: our values themselves conflict. As we will see later on, this is not a bug of human psychology, but a feature. 
 
 At the basis of this model are two key value conflicts that take place within us:
 
@@ -112,15 +117,16 @@ At the basis of this model are two key value conflicts that take place within us
 - **Self-enhancement vs. self-transcendence** : Values centered on personal success and self-interest (power and achievement) conflict with those that prioritize the well-being of others and a broader sense of purpose (universalism and benevolence).
 
 
-Shalom Schwartz developped two psychological assessments to measure individual and cultural differences in value priorities :
+Shalom Schwartz developed two psychological assessments to determine value priorities :
 - [Schwartz's Value Survey (SVS)](https:/tezt.me/en/tests/schwartz-values)
 - [Portrait Values Questionnaire (PVQ)](https://www.idrlabs.com/human-values/test.php)
 
 
-# Find your Why - Simon Sinek
+# Find your Why — Simon Sinek
 
 
 In his book *Find Your WHY*, Simon Sinek introduced a methodology to help individuals discover their core value or purpose. 
+
 ### The Golden Circle
 
 Simon Sinek defined the Golden Circle framework. It explains how individuals build clarity and fulfillment by starting with a core purpose, arguing that you don't find satisfaction in _what_ you do, but in _why_ you do it. The three layers of the Golden Circle are:
@@ -137,18 +143,19 @@ Simon Sinek defined the Golden Circle framework. It explains how individuals bui
 It consists in a deep-dive conversation exercise with a partner who acts as an active listener. Here are the main steps :
 
 1. **Gather meaningful stories**
+
    Compile at least 10 memories of past experiences. You should select stories that:
    - impacted you the most in your life, the most meaningful stories, that made the biggest differences in your life, where your contribution felt meaningful.
-   - focusing on moments you felt at your natural best or the most fulfilled
-   - relates to events that shaped who you are today, that taught you something, or made you proud
+   - focusing on moments you felt at your natural best or the most fulfilled.
+   - relates to events that shaped who you are today, that taught you something, or made you proud.
    - relates to the people that are the most influencial in your life. What did they say or do that made such an impact on you?
 
    Each story must be about a specific time and place, which helps having a strong emotional connection to the story. They can be painful memories or happy moments. The more data, specific details, and quality of the memory the better.
 
 2. **Share your stories**
    - Find a partner who is a good listener and who you're comfortable telling your stories.
-   - Select 5 or 6 of the stories that made the biggest difference in your life and share them with your partner in as much detail as possible
-   - Focus on the emotion you feel as you tell the story
+   - Select 5 or 6 of the stories that made the biggest difference in your life and share them with your partner in as much detail as possible.
+   - Focus on the emotion you feel as you tell the story.
    - The partner's role is crucial: they listen actively, take notes, and ask probing questions to draw out the details.
 
 3. **Identify recurring themes**

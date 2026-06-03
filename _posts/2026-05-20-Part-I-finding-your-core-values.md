@@ -109,7 +109,7 @@ Here is a comprehensive list of personal values:
 *   **Joy / Happiness:** Pursuing and appreciating experiences of pleasure and contentment.
 
 
-In Part II, we will see some methods for identifying your core values.
+In Part II, we’ll explore several methods to help you identify your core values.
 
 
 

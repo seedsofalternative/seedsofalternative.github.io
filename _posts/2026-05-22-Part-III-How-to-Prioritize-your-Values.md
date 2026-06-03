@@ -20,7 +20,7 @@ So the better question isn't "How can I have it all?" It's: Which trade-off serv
 
 # Choosing Your Struggle
 
-Every value you choose demands sacrifice. If you choose honesty, you sacrifice approval. If you value depth, you give up simplicity. You don't get to avoid struggle in life—you only get to choose what you struggle for.
+Every value you choose demands sacrifice. If you choose honesty, you sacrifice approval. If you value depth, you give up simplicity. You don't get to avoid struggle in life, you only get to choose what you struggle for.
 
 A person who chooses stability may forgo novelty. Someone who values independence might endure loneliness. The question isn't whether you suffer, but whether your suffering serves something that actually matters to you. Most people drift through trade-offs unconsciously, suffering without context. When you don't know what value your struggle is serving, the pain feels meaningless.
 
@@ -31,14 +31,14 @@ Choosing your values is also choosing your pain. They are what you're willing to
 
 Take the values you identified from the previous exercises and force yourself to pick the top 5. This can feel challenging, but it clarifies which values take priority when resources (like time or energy) are limited. Here are some prompts that can help you narrowing down your value list to the most important ones.
 
-2. If you had to choose **only one** for a year, would you rather have a job that offers immense **Stability and Comfort** or one filled with **Risk, Growth, and Excitement**? (This probes _Security_ vs. _Adventure/Growth_).
-3. Imagine a major project. Is it more important to you that it is **done perfectly (Excellence)**, or that it is **done collaboratively with your team (Connection/Teamwork)**, even if imperfect?
-4. When facing a difficult truth or a tough situation, is your default to prioritize **Harmony** (peace, avoiding conflict) or **Authenticity** (expressing your true feelings, even if it causes tension)?
-5. The "Why" Drill. Take a value you're considering (e.g., "Freedom") and ask: **"Why is that important to me?"**
-   * If you say "Freedom," ask: "Why?" _"So I can explore my own interests."_
+2. If you had to choose **only one** for a year, would you rather have a job that offers immense **stability and comfort** or one filled with **risk, growth, and excitement**? (This probes _security_ vs. _adventure/growth_).
+3. Imagine a major project. Is it more important to you that it is **done perfectly (excellence)**, or that it is **done collaboratively with your team (connection/teamwork)**, even if imperfect?
+4. When facing a difficult truth or a tough situation, is your default to prioritize **harmony** (peace, avoiding conflict) or **authenticity** (expressing your true feelings, even if it causes tension)?
+5. The "Why" Drill. Take a value you're considering (e.g., "freedom") and ask: **"Why is that important to me?"**
+   * If you say "freedom," ask: "Why?" _"So I can explore my own interests."_
    * "Why is exploring your own interests important?" _"So I can keep learning and growing."_
-   * **You may find "Growth" is a deeper core value than "Freedom."** Do this for a few of your top contenders.
-6. Imagine you're mentoring someone. You can only pass on **7 guiding principles** to live by. What would they be?
+   * **You may find "growth" is a deeper core value than "freedom."** Do this for a few of your top contenders.
+6. Imagine you're mentoring someone. You can only pass on **5 guiding principles** to live by. What would they be?
 7. Look at your shortlist. If you were forced to **discard one forever**, which would be the _easiest_ to let go? (This helps eliminate nice-to-haves).
 8. Which values, if you **could not live by them**, would make you feel like a stranger to yourself?
 

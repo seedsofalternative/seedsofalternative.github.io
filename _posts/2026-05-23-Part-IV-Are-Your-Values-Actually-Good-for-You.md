@@ -20,9 +20,11 @@ The ancient Greek philosopher Aristotle made a distinction between two kinds of 
 - **Hedonia** – The happiness that *feels* good. Pleasure, comfort, a cold drink on a hot day. It’s real, but fleeting—rooted in dopamine hits and short-term rewards that vanish as quickly as they arrive.
 - **Eudaimonia** – The happiness that *is* good. Meaning, purpose, fulfilment and the quiet pride that comes after doing the hard thing. It’s the peace of living with integrity, even when it costs you something.
 
-Modern psychology backs this up: long-term well-being depends far more on meaning than on momentary pleasure. Eudaimonia often means sacrificing a lower value in service of a higher one—choosing integrity over comfort, or long-term growth over instant gratification.
+Modern psychology backs this up: long-term well-being depends far more on meaning than on momentary pleasure. Eudaimonia often means sacrificing a lower value in service of a higher one : choosing integrity over comfort, or long-term growth over instant gratification.
 
-This doesn’t mean you should abandon pleasure. It means you get to decide the balance. Ask yourself: _What does my ideal blend of pleasure and meaning look like? What’s one short-term pleasure I could trade today for deeper satisfaction tomorrow?_
+This doesn’t mean you should abandon pleasure. It means you get to decide the balance. 
+
+Ask yourself: _What does my ideal blend of pleasure and meaning look like? What’s one short-term pleasure I could trade today for deeper satisfaction tomorrow?_
 
 
 # The 6 Markers of a Healthy Value
@@ -50,7 +52,7 @@ You already have a value hierarchy—an internal ranking of what matters most, w
 
 Here’s the catch: we naturally default to lower values because they’re easier and more immediately rewarding. Choosing higher values requires conscious effort. In many ways, living well is the ongoing practice of sacrificing a lower value for a higher one.
 
-The work isn’t about being perfect—it’s about closing the gap between the values you hold and the life you actually live.
+The work isn’t about being perfect. It’s about closing the gap between the values you hold and the life you actually live.
 
 ---
 
