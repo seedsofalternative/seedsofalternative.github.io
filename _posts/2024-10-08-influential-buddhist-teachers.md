@@ -107,6 +107,10 @@ Indian teacher of Vipassana meditation.
 
 One of the first assistant teachers appointed by S.N. Goenka.
 
+#### Lopön Tenzin Namdak (1925 – 2025)
+
+Tibetan religious leader and the most senior authority and teacher of Bon, in particular of Dzogchen and the Mother Tantras.
+
 #### Thich Nhat Hanh (1926 – 2022)
 
 Vietnamese buddhist monk, father of mindfulness and Zen buddhism, founded the Plum village in France.
@@ -173,7 +177,7 @@ German Theravada monk, scholar, and meditation teacher.
 
 ![analayo]({{ site.baseurl }}/assets/images/buddhist_teachers/analayo.webp)
 
-#### Jetsun Khandro Rinpoche (1967 - present)
+#### Khandro Rinpoche (1967 - present)
 
 Tibetan Lama and nun.
 

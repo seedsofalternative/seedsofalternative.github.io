@@ -153,6 +153,7 @@ This article lists and categorizes the spiritual and introspection practices I c
     - **Anusara Yoga** : Heart-opening, alignment, and positive philosophy.
     - **Aerial Yoga** : Silk hammocks for suspension.
     - **AcroYoga** : Partner work yoga.
+    - **Chakra sadhana** : Yogic and tantric practice focused on awakening and harmonizing the seven vital energy centers (chakras) along the spine. It combines postures (asanas), breathwork (pranayama), visualization, and mantra chanting to clear energy blockages and promote physical and emotional well-being.
 - **Buddhism** : Spiritual tradition founded by the Buddha (Siddhartha Gautama) that teaches freedom from suffering (*dukkha*) through mindfulness, ethical living, and wisdom—culminating in enlightenment.
     - **Mahayana** : "Great Vehicle," focuses on universal enlightenment (*bodhisattva* path).
         - **Chan** buddhism (China)
@@ -219,6 +220,8 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Sophrology** : A mind-body practice blending relaxation, breathing exercises, visualization, and gentle movement.
 - **Bioenergetic Therapy** : Body-centered psychotherapy that combines breathwork, movement, and emotional expression to release physical tension and unresolved emotional trauma, aiming to restore energy flow and improve mental and physical well-being.
 - **Hakomi** : Gentle, mindfulness-based therapy that uses body awareness to uncover and heal unconscious emotional wounds. It helps you explore deep-seated beliefs by noticing how your body reacts in the present moment.
+- **Latihan** : Physical workouts, educational study drills, or the deep spiritual and moving meditation practice originating from the Subud tradition in Indonesia.
+
 
 ## 11. Introspection and Self-Development Tools
 
