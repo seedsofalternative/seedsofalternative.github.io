@@ -99,6 +99,11 @@ toc: true                # auto-generate TOC from headings
 beforetoc: "…"           # text rendered above the TOC
 youtubeId: "abc123"      # used with {% include youtubePlayer.html id=page.youtubeId %}
 last_modified_at: YYYY-MM-DD
+# Photo credit — all four fields are optional; rendered as "Photo by [name] on [source]" below the featured image
+image_credit: "Photographer Name"
+image_credit_url: "https://unsplash.com/@handle"
+image_source: "Unsplash"
+image_source_url: "https://unsplash.com/photos/..."
 ```
 
 ---

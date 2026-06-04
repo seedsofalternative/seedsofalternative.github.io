@@ -4,6 +4,10 @@ title:  "Part II — How to Find your Core Values ?"
 author: pierre
 categories: [ psychology ]
 image: assets/images/values/jeremy-thomas-FO7bKvgETgQ-unsplash.jpg
+image_credit: "Jeremy Thomas"
+image_credit_url: "https://unsplash.com/@jeremythomasphoto"
+image_source: "Unsplash"
+image_source_url: "https://unsplash.com/photos/stack-rock-on-seashore-FO7bKvgETgQ"
 featured: false
 tags: [psychology, values, self-development, exercises]
 description: "Practical exercises to help you uncover your true core values — free from social pressure — so you can live with greater clarity, purpose, and authenticity."

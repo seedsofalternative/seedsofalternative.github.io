@@ -4,6 +4,10 @@ title:  "Part V — Your Values are Constantly Changing"
 author: pierre
 categories: [ psychology ]
 image: assets/images/values/milada-vigerova-Z-P0BkdJVZ4-unsplash.jpg
+image_credit: "Milada Vigerova"
+image_credit_url: "https://unsplash.com/@milada_vigerova"
+image_source: "Unsplash"
+image_source_url: "https://unsplash.com/photos/grayscale-photo-of-stone-formation-Z-P0BkdJVZ4"
 featured: false
 tags: [psychology, values, personal-growth, self-development]
 description: "Values evolve as we grow and gain new perspectives. Understand why your values change over time and how to embrace that evolution as a natural sign of personal growth."

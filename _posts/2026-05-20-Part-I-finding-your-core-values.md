@@ -4,16 +4,18 @@ title:  "Part I — Finding your Core Values : Why it Matters ?"
 author: pierre
 categories: [ psychology ]
 image: assets/images/values/austin-neill-ZahNAl_Ic3o-unsplash.jpg
+image_credit: "Austin Neill"
+image_credit_url: "https://unsplash.com/@arstyy"
+image_source: "Unsplash"
+image_source_url: "https://unsplash.com/photos/selective-focus-of-gray-pile-of-rack-ZahNAl_Ic3o"
 featured: false
 tags: [psychology, values, self-development, meaning]
 description: "Core values are the compass of a meaningful life. This first part explores what values are, why identifying them matters, and what happens when we live out of alignment with them."
 ---
 
-Values are possibly the most important component of stable mental health and sustained happiness. Because they help us define what’s important. *What actually matters to you?*
+Values are possibly the most important component of stable mental health and sustained happiness. Because they help us define what’s important.
 
-When we lack clarity on what’s important, we feel stuck and overwhelmed with making life decisions. Every option can seem both life-and-death important and completely meaningless
-
-Values serve as the internal compass that makes every decision, every commitment, and every sacrifice feel like they're *yours*.
+When we lack clarity on what’s important, we feel stuck and overwhelmed with making life decisions. Every option can seem both life-and-death important and completely meaningless. Values serve as the internal compass that drives every decision, every commitment, and every sacrifice.
 
 This is the first article in a series on values: what they are, how to find yours, and how to use them to build a life that genuinely feels like yours.
 

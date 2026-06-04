@@ -4,6 +4,10 @@ title:  "Part III — How to Prioritize your Values ?"
 author: pierre
 categories: [ psychology ]
 image: assets/images/values/malek-larif-6AXRm87pfAU-unsplash.jpg
+image_credit: "Malek Larif"
+image_credit_url: "https://unsplash.com/@malekl"
+image_source: "Unsplash"
+image_source_url: "https://unsplash.com/photos/a-close-up-of-a-persons-hand-with-rocks-on-it-6AXRm87pfAU"
 featured: false
 tags: [psychology, values, decision-making, self-development]
 description: "You can't live every value at once. Learn how to rank your values, navigate conflicts between them, and make decisions that honour what matters most to you."
@@ -31,9 +35,7 @@ Choosing your values is also choosing your pain. They are what you're willing to
 
 # Exercise : Ranking and Prioritizing your Values
 
-That's the theory. Now let's make it real.
-
-Take the values you identified in Parts I and II and force yourself to pick the top 5. This will feel uncomfortable — that discomfort is the point. Clarity costs something. The prompts below are designed to stress-test your list until only the ones that genuinely run your life are left standing. Work through them slowly, in order.
+Take the values you identified in [Part II]({% post_url 2026-05-21-Part-II-how-to-find-your-core-values %}) and force yourself to pick the top 5. This will feel uncomfortable — that discomfort is the point. Clarity costs something. The prompts below are designed to stress-test your list until only the ones that genuinely run your life are left standing. Work through them slowly, in order.
 
 1. If you had to choose **only one** for a year, would you rather have a job that offers immense **stability and comfort** or one filled with **risk, growth, and excitement**? (This probes _security_ vs. _adventure/growth_).
 2. Imagine a major project. Is it more important to you that it is **done perfectly (excellence)**, or that it is **done collaboratively with your team (connection/teamwork)**, even if imperfect?

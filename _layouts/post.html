@@ -51,13 +51,18 @@ post_class: post-template
 
             <!-- Post Featured Image -->
             {% if page.image %}
-
+            <figure class="featured-image-figure">
             {% if site.lazyimages == "enabled" %}
             <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% else %}
             <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% endif %}
-
+            {% if page.image_credit %}
+            <figcaption class="featured-image-credit">Photo by
+              {% if page.image_credit_url %}<a href="{{ page.image_credit_url }}" target="_blank" rel="noopener noreferrer">{{ page.image_credit }}</a>{% else %}{{ page.image_credit }}{% endif %}{% if page.image_source %} on {% if page.image_source_url %}<a href="{{ page.image_source_url }}" target="_blank" rel="noopener noreferrer">{{ page.image_source }}</a>{% else %}{{ page.image_source }}{% endif %}{% endif %}
+            </figcaption>
+            {% endif %}
+            </figure>
             {% endif %}
             <!-- End Featured Image -->
 
