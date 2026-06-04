@@ -51,8 +51,6 @@ Here's the leverage point: **you can design that environment intentionally.** As
 
 # Values Are a Practice, Not a Destination
 
-So here's where this leaves you.
-
 Your values are not a fixed personality trait. They're a **living system** — shaped by the gaps you confront, the experiences you survive, and the environments you choose. That's not a threat to your identity. It's an invitation.
 
 The three levers are always available to you: face the dissonance, seek the perspective shift, design your environment. Not once, but repeatedly, across a lifetime. Growth doesn't come from finding the right values and holding on. It comes from staying honest about the gap between who you are and who you could be — and being willing to close it, a little at a time.
