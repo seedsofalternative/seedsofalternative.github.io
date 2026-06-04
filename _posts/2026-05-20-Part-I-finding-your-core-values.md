@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Part I — Finding your core values : Why it matters ?"
+title:  "Part I — Finding your Core Values : Why it Matters ?"
 author: pierre
 categories: [ psychology ]
 image: assets/images/values/austin-neill-ZahNAl_Ic3o-unsplash.jpg
@@ -9,107 +9,122 @@ tags: [psychology, values, self-development, meaning]
 description: "Core values are the compass of a meaningful life. This first part explores what values are, why identifying them matters, and what happens when we live out of alignment with them."
 ---
 
+Values are possibly the most important component of stable mental health and sustained happiness. Because they help us define what’s important. *What actually matters to you?*
 
-# Definition
+When we lack clarity on what’s important, we feel stuck and overwhelmed with making life decisions. Every option can seem both life-and-death important and completely meaningless
 
-By definition, a value is a **belief that something is good or desirable and worth striving for, regardless of context or circumstance**. 
+Values serve as the internal compass that makes every decision, every commitment, and every sacrifice feel like they're *yours*.
 
-Values are not the same as needs or preferences—but they do influence our preferences and help us get our needs met. Values are also different from goals. A goal is a target you can achieve and cross off a list (e.g. getting a job); a value is an ongoing direction you travel in (eg. honesty).
+This is the first article in a series on values: what they are, how to find yours, and how to use them to build a life that genuinely feels like yours.
 
-Psychologist Shalom Schwartz identified that values have six characteristics [1]:
 
-1. **They are linked to emotion**. People feel strongly about what they value. When a value is activated, it is infused with feeling. For instance, someone who values independence will feel anxious if their freedom is threatened, helpless if they cannot protect it, and happy when they can fully exercise it. In this sense, our values are, in many ways, extensions of ourselves. 
-2. **They motivate action**. Values inspire not only your goals, but the pursuit of them, as well. Those who prioritize social order, justice, or helpfulness are motivated to act in ways that promote these ideals. 
-3. **They apply across contexts.** Unlike preferences or norms, which are tied to specific situations, values remain relevant in various settings. For example, if you value loyalty, then you likely value it everywhere in your life: in the workplace, in politics, in business, and in your personal relationships. 
-4. **They serve as standards for judgement**. They guide how people evaluate actions, policies, individuals, and events. They help determine what is good or bad, justified or illegitimate, worth doing or avoiding. While values often operate in the background of your mind, they come into awareness when you face decisions with significant or conflicting implications. 
-5. **They are ranked in importance**. People do not hold all values equally—they prioritize some over others. One person may value achievement more than justice, while another may place greater importance on tradition over novelty. This ordering of values helps define individuals and their choices. 
-6. **They involve trade-offs**. Pursuing some values often means sacrificing others. For example, honesty might be sacrificed to protect loyalty, striving for personal success might conflict with helping others. People's behavior results from balancing compatible values and managing conflicts between competing ones.
+# What Are Values, Really?
 
-# Why it Matters
+A value is a **belief that something is good or desirable and worth striving for, regardless of context or circumstance**.
 
-Values are possibly the most important component of stable mental health and sustained happiness. Because values help us define what’s important.
+Values aren't the same as needs or preferences, though they do shape both. And they're different from goals. A goal is a target you can reach and cross off a list (getting a job, running a marathon); a value is the ongoing direction you travel in (honesty, growth, service). Goals end. Values don't.
 
-When we lack clarity on what’s important, we feel stuck and overwhelmed with making life decisions. Every option can seem both life-and-death important and completely meaningless—all at once.
+Psychologist Shalom Schwartz identified six properties that distinguish values from other motivations [1]:
 
-This not only makes decision-making and prioritizing almost impossible, but it can leave us feeling lost and aimless. Which is how we end up committing to relationships, jobs, or projects that aren’t quite “right”—and then wondering why we feel drained or unsatisfied.
+1. **They are linked to emotion.** People feel strongly about what they value. When a value is activated, it's infused with feeling. Someone who values independence will feel anxious when their freedom is threatened, helpless if they can't protect it, and genuinely alive when they can fully express it. In this sense, our values are extensions of ourselves.
+2. **They motivate action.** Values don't just describe what you believe, they drive what you do. Those who prioritize justice or helpfulness don't just think about it; they act on it.
+3. **They apply across contexts.** Unlike preferences or norms tied to specific situations, values travel with you. If you value loyalty, you value it at work, at home, in politics, and in friendship.
+4. **They serve as standards for judgement.** Values are how you decide what's good, justified, or worth pursuing. While values often operate in the background of your mind, they come into awareness when you face decisions with significant or conflicting implications. 
+5. **They are ranked.** You don't hold all values equally. One person ranks achievement above fairness; another does the reverse. That ordering — not the values themselves — is what defines your choices.
+6. **They involve trade-offs.** Pursuing one value often means compromising another. Honesty can conflict with loyalty. Ambition can crowd out rest. Much of what we call "inner conflict" is really values in tension.
 
-But when you know better, you can choose better. Which is why clarifying and identifying your core values matters so much.
 
-Your core values function as an internal life compass. People who discover and embody their values experience :
+# Why This Matters
 
-1. **Less stress, more peace**: Living true to your values reduces internal conflict and stress, leading to better mental health and even a calmer physiological stress response.
-2. **Greater resilience and emotional stability**: Your values provide an emotional anchor, making you more resilient during crisis and contributing to a more stable, balanced emotional life.
-3. **Meaningful happiness**: Following your values boosts *life satisfaction* and sense of fulfilment by infusing your life with meaning and purpose. You’re happier when you pursue what you find meaningful, rather than external definitions of success.
-4. **Mental clarity**: When your actions match your beliefs, you experience less mental friction. This cognitive alignment leads to clearer thinking and more *confident decision-making*, without the fog of regret or self-doubt.
+Most people feel vaguely lost at some point. Not because they lack intelligence, effort, or opportunity, but because they've never been taught to ask what they actually want their life to mean.
+
+When we lack clarity on what matters, every decision feels both urgent and arbitrary at once. We commit to relationships, jobs, and projects that look right from the outside, and then wonder why we feel hollow. We achieve things and feel nothing. We can't explain why we're tired.
+
+But when your values are clear, something shifts. You stop chasing what sounds impressive and start building toward what feels true.
+
+The research on this is consistent. People who know and live by their values tend to experience:
+
+1. **Less stress, more peace**: Living true to your values reduces internal conflict, leading to better mental health and a measurably calmer stress response.
+2. **Greater resilience**: Your values are an emotional anchor. They make you more stable when things fall apart, because you know what you're standing on.
+3. **Meaningful happiness**: Life satisfaction comes not from external success, but from pursuing what *you* find meaningful. Values are how you find that.
+4. **Mental clarity**: When your actions match your beliefs, there's less mental friction. This cognitive alignment leads to clearer thinking and more *confident decision-making*, without the fog of regret or self-doubt.
 5. **Better relationships**: Living authentically according to your values fosters trust and understanding in relationships. It encourages healthy interactions and attracts people who respect you for who you are, leading to stronger social connections.
-6. **More motivation and drive**: Values give you a *powerful why*. They ignite your internal motivation and help you stick to your goals, making it more likely that you’ll achieve outcomes that truly satisfy you.
-7. **More confidence and a stronger identity** : Knowing your values is knowing who you are, independent of others’ opinions. This makes you less susceptible to peer pressure and Fear Of Missing Out. Understanding your own definition of success and causes of discontent provides a stronger self-confidence. Letting society define success for you is a recipe for burnout and emptiness.
+6. **Sustained motivation**: Values give you a *why* that doesn't expire. They ignite your internal motivation and help you stick to your goals, making it more likely that you’ll achieve outcomes that truly satisfy you.
+7. **A stronger identity**: Knowing your values means knowing who you are, independent of others' opinions. It makes you less susceptible to peer pressure and fear of missing out, and less likely to let society define success for you.
 
 
-# List of personal values
+# A Map of Values
 
-Here is a comprehensive list of personal values:
+Below is a broad reference list of personal values, organized by theme. Don't try to claim or memorize all of them. Instead, read slowly and notice which ones produce a quiet sense of recognition, a *yes, that's me*, even if you've never said it out loud.
 
 ### Core Character
-*   **Authenticity:** Being genuine, honest, and true to your own personality and spirit.
-*   **Integrity:** Acting with honesty and strong moral principles, even when no one is watching.
+*   **Authenticity:** Being genuine and true to your own personality, even when it's uncomfortable.
+*   **Integrity:** Acting according to your moral principles, especially when no one is watching.
 *   **Accountability:** Taking responsibility for your actions, decisions, and their consequences.
 *   **Honesty:** Being truthful and sincere in your words and actions.
 *   **Courage:** Facing fear, difficulty, or uncertainty with strength and resilience.
 *   **Humility:** Having a modest view of one's own importance; being grounded.
-*   **Resilience:** The capacity to recover quickly from difficulties; mental toughness.
-*   **Self-Discipline:** The ability to control your feelings and overcome weaknesses.
+*   **Resilience:** The capacity to recover and grow from difficulty.
+*   **Self-Discipline:** The ability to act in line with your intentions, not just your impulses.
 
 ### Relationships & Community
-*   **Connection:** A sense of belonging, closeness, and being seen by others.
-*   **Compassion:** Showing empathy and concern for the suffering of others.
-*   **Kindness:** Being considerate, generous, and friendly.
-*   **Loyalty:** A strong feeling of support or allegiance to people or principles.
-*   **Respect:** Treating others with consideration and valuing their worth.
+*   **Connection:** A sense of belonging, closeness, and being truly seen by others.
+*   **Compassion:** Genuine concern for the suffering of others, and the willingness to act on it.
+*   **Kindness:** Being considerate, generous, and warm in everyday life.
+*   **Loyalty:** A deep feeling of support and allegiance toward people or principles you believe in.
+*   **Respect:** Treating others with consideration and recognizing their inherent worth.
 *   **Forgiveness:** Letting go of resentment and anger toward those who have wronged you.
-*   **Family:** Cherishing and prioritizing relationships with family members.
-*   **Friendship:** Valuing deep, supportive, and reciprocal bonds with friends.
+*   **Family:** Cherishing and investing in relationships with those closest to you.
+*   **Friendship:** Cultivating deep, reciprocal bonds built on trust and presence.
 
 ### Fulfillment
 *   **Growth:** A commitment to continuous learning and self-improvement.
 *   **Learning:** Pursuing knowledge, understanding, and new skills for their own sake.
 *   **Wisdom:** Using experience, knowledge, and good judgment to make decisions.
 *   **Self-awareness:** Having a clear perception of your personality, strengths, and weaknesses.
-*   **Curiosity:** A strong desire to know, learn, and explore.
-*   **Adventure:** Seeking out novel, exciting, or daring experiences.
+*   **Curiosity:** A genuine desire to explore, question, and discover.
+*   **Adventure:** Seeking out novel, challenging, or exciting experiences.
 *   **Creativity:** Using imagination or original ideas to create something.
-*   **Freedom / autonomy :** The power to act, speak, or think without undue restraint.
-*   **Stability / security / comfort**
+*   **Freedom / Autonomy:** The capacity to act, speak, and choose without undue constraint.
+*   **Stability / Security / Comfort:** Valuing predictability, safety, and the peace of a settled life.
 
 ### Purpose & Contribution
-*   **Service:** Contributing to the well-being of others and your community.
-*   **Generosity:** Giving freely of your time, resources, or energy.
-*   **Justice:** Promoting fairness, equality, and righteous treatment for all.
-*   **Leadership:** Guiding, inspiring, and influencing others toward a goal.
-*   **Legacy:** Building something of lasting value that impacts others after you're gone.
+*   **Service:** Dedicating energy to the well-being of others and your community.
+*   **Generosity:** Giving freely of your time, resources, or attention.
+*   **Justice:** Standing for fairness, equality and righteous treatment for all.
+*   **Leadership:** Guiding and inspiring others toward something meaningful.
+*   **Legacy:** Building something that outlasts you and benefits those who come after.
 *   **Making a difference:** Having a positive impact on the world or people around you.
 *   **Sustainability:** Living in a way that protects the environment and future generations.
 
 ### Work & Achievement
-*   **Excellence:** Striving for the highest quality in all you do.
-*   **Diligence:** Careful and persistent work or effort.
-*   **Ambition:** Having a strong desire for achievement, success, or distinction.
+*   **Excellence:** Striving for the highest quality in what you do.
+*   **Diligence:** Showing up with care and persistence, even when it's hard.
+*   **Ambition:** A drive to grow, create, and achieve.
 *   **Mastery:** The commitment to becoming highly skilled or expert in something.
-*   **Reliability:** Being consistently trustworthy and dependable.
-*   **Efficiency / productivity:** Achieving maximum productivity with minimum wasted effort.
-*   **Innovation:** Introducing new methods, ideas, or products.
+*   **Reliability:** Being someone others can count on.
+*   **Efficiency:** Achieving maximum productivity with minimum wasted effort.
+*   **Innovation:** Searching for better ways of doing and thinking.
 
 ### Well-being
 *   **Health (physical / mental):** Prioritizing the well-being of your body and mind.
 *   **Peace:** Seeking inner calm, tranquility, and freedom from stress.
-*   **Balance:** Maintaining a healthy equilibrium among life's various domains.
+*   **Balance:** Maintaining equilibrium across the different areas of your life.
 *   **Gratitude:** Appreciating and being thankful for what you have.
 *   **Mindfulness:** Being consciously present and engaged in the current moment.
 *   **Simplicity:** Embracing a less complicated, uncluttered life and mindset.
 *   **Joy / Happiness:** Pursuing and appreciating experiences of pleasure and contentment.
 
 
-In Part II, we’ll explore several methods to help you identify your core values.
+---
+
+Before you move on, pause for a moment. Look back at the list. Which word made you stop? Which one felt like a quiet *yes*?
+
+You don't need to analyze it. You don't need to be certain. Just notice.
+
+That instinct is where this work begins.
+
+In [Part II]({% post_url 2026-05-21-Part-II-how-to-find-your-core-values %}), we'll explore concrete methods for surfacing your actual core values. Not the ones you think you *should* have, but the ones already shaping your life. Because knowing what matters intellectually is different from knowing it in your bones.
 
 
 
@@ -120,4 +135,3 @@ In Part II, we’ll explore several methods to help you identify your core value
 
 
 *This article was adapted from "Your Values Guide" by Mark Manson.*
-

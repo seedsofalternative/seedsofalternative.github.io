@@ -9,42 +9,53 @@ tags: [psychology, values, personal-growth, self-development]
 description: "Values evolve as we grow and gain new perspectives. Understand why your values change over time and how to embrace that evolution as a natural sign of personal growth."
 ---
 
+*This is Part V — the final part of a five-part series on personal values. In [Part I]({% post_url 2026-05-20-Part-I-finding-your-core-values %}), we explored what values are and why they matter. In [Part II]({% post_url 2026-05-21-Part-II-how-to-find-your-core-values %}), you worked through exercises to surface your authentic values. In [Part III]({% post_url 2026-05-22-Part-III-How-to-Prioritize-your-Values %}), you built a hierarchy by ranking them. In [Part IV]({% post_url 2026-05-23-Part-IV-Are-Your-Values-Actually-Good-for-You %}), you examined whether those values are actually serving you. Here, we tackle the last uncomfortable truth: values are constantly changing.*
 
-Most people think their values are fixed. You either care about something or you don’t. You were raised that way or you weren’t. 
+Most people treat their values like a personality test result — something that gets discovered once and then filed away. You're an introvert, you value freedom, you care about family. Done.
 
-Your values are actually **flexible, and they’re always shifting**, whether you’re conscious of it or not. Sometimes values evolve gradually. Other times, something cracks them wide open. Values are shaped by experience, influenced by environment, and changed through choice. And if you’re intentional, you can actually upgrade them. Here’s how values shift (and how you can make it happen on purpose).
+But values don't work like that. They're **flexible, and they're always shifting**, whether you're aware of it or not. Sometimes they evolve gradually, through thousands of small daily choices. Other times, something cracks them wide open overnight. Values are shaped by experience, influenced by environment, and changed through choice.If you understand the mechanisms behind how values change, you can actually update them intentionally.
+
+Here's how it happens — and what you can do about it.
 
 # Cognitive Dissonance
 
-Psychologist Milton Rokeach found that one of the most effective ways to change a value is by facing a contradiction between your beliefs and your behavior. In other words, you experience **cognitive dissonance**—that uncomfortable feeling of : _“I say this is important to me... but I don’t act like it.”_
+Psychologist Milton Rokeach found that one of the most effective ways to change a value is by confronting a contradiction between what you believe and how you actually behave — in other words, **cognitive dissonance**, that uncomfortable gap between who you say you are and what you actually do.
 
-You’ve got two options:
-1. Change your **behavior** to match your value.
-2. Change your **value** to match your behavior.
+Think about someone who says they value health but doesn't sleep enough, skips exercise, and reaches for the phone first thing every morning. On some level, they know the gap is there. Most people resolve it by quietly lowering the value: *well, I don't really have time right now; I'll prioritize health later.* The value bends to fit the behavior.
 
-Most people take the second route without realizing it. They cut corners, make excuses and slowly chip away at their own integrity. But real growth happens when you :
-- *confront the dissonance* (i.e. the difference between what you say you care about and what you actually do)
-- make the small, intentional changes that bring your actions back into alignment with who you want to be.
+But real change happens when you change your behavior to match your value:
+1. **Confront the dissonance** — name the gap, rather than explaining it away.
+2. **Change your behavior** — make small, deliberate moves to bring your actions back into alignment with who you want to be.
+
+Ask yourself : *Where in your life do you feel that gap right now — between what you say matters and how you actually spend your time, energy, or attention?*
 
 # Post-Traumatic Growth
 
-Sometimes, values don’t shift through reflection—they change because life _slams_ you into a new perspective.
+Sometimes values don't shift through reflection — they change because life **slams** you into a new perspective.
 
-Loss, illness, crisis, parenthood—these major life events can reorder what matters _overnight._ Suddenly, the stuff you used to chase feels hollow, and things you once overlooked come front and center.
+Loss, illness, crisis, parenthood — major events can reorder your priorities overnight. Psychologists Richard Tedeschi and Lawrence Calhoun, who coined the term **post-traumatic growth**, found that many people don't just recover from hardship — they emerge from it with deeper relationships, a clearer sense of purpose, and a fundamental rethinking of what actually matters. The values that once seemed essential reveal themselves as optional. The ones they'd been ignoring move to the centre.
 
 You don’t need trauma to grow. But if you’ve been through something hard, you may recall how quickly your values and priorities rearranged themselves.
 
+*Think back over the last five years. What experience — chosen or unchosen — most shifted what you care about? What did it cost, and what did it open up?*
+
 # Incentives, Influence, and Environment
 
-Charlie Munger said it best: _“Show me the incentive and I’ll show you the behavior.”_
+Charlie Munger said it best: *"Show me the incentive and I'll show you the behavior."*
 
-The rewards and pressures we’re surrounded by _also_ shape what we claim to value, whether we realize it or not. But here’s the trick: **Real values stick when they’re chosen freely.** Not forced. Not bribed. Not guilted.
+The environments we inhabit, the communities we belong to, the rewards and social pressures that surround us — all of these quietly sculpt what we end up valuing, often without our awareness. A culture that rewards busyness will produce people who value productivity above rest, even if they'd tell you otherwise. The values you hold are partly a product of the air you breathe.
 
-So if you want to adopt a new value like health, honesty, or growth? Start small. Let the action build the identity.
+Here's the leverage point: **you can design that environment intentionally.** As James Clear puts it, every action is a vote for the type of person you want to be. If you want to build a value — honesty, generosity, creative courage — start by making the behavior easy and the cues visible. Surround yourself with people who already live that value. Let repetition build identity. Real values aren't just chosen; they're reinforced, practiced, and embodied until they're simply who you are.
 
-Ask yourself:
-- _When was the last time your values changed?_
-- _What triggered it? What did you do about it?_
+*What's one value you want to strengthen? What's one small environmental or social change that would make acting on it easier?*
+
+# Values Are a Practice, Not a Destination
+
+So here's where this leaves you.
+
+Your values are not a fixed personality trait. They're a **living system** — shaped by the gaps you confront, the experiences you survive, and the environments you choose. That's not a threat to your identity. It's an invitation.
+
+The three levers are always available to you: face the dissonance, seek the perspective shift, design your environment. Not once, but repeatedly, across a lifetime. Growth doesn't come from finding the right values and holding on. It comes from staying honest about the gap between who you are and who you could be — and being willing to close it, a little at a time.
 
 ---
 
