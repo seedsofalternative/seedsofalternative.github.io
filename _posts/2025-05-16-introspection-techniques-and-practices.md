@@ -17,7 +17,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 
 ## 1. Substance-Based / Plant Medicine
 
-- **Ayahuasca** (also known as **Yagé** in Colombia) : ****Psychedelic brew made from the Banisteriopsis caapi vine, ceremonial spiritual medicine used by shamans in the Amazon region.
+- **Ayahuasca** (also known as **Yagé** in Colombia) : Psychedelic brew made from the Banisteriopsis caapi vine, ceremonial spiritual medicine used by shamans in the Amazon region.
 - **Peyote** : Cactus found in Mexico which contains psychoactive mescaline, traditionally used for medical and religious purposes.
 - **San Pedro (Huachuma)** : Sacred cactus used in Andean shamanic traditions, primarily in Peru and Ecuador, for healing, spiritual insight, and communion with nature.
 - **Peruvian Torch** : Mescaline cactus native to the Peruvian Andes.
@@ -47,6 +47,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Meridian Stretching** : Energy-based practice that combines slow, intentional stretches with the principles of Traditional Chinese Medicine to release blockages in the body’s energy meridian.
 - **Pranic Healing** : Energy healing technique using prana (life force) for cleansing. It is based on the idea that the body has the ability to heal itself.
 - **Sekhem** : Egyptian energy healing similar to Reiki.
+- **Shiatsu** : Japanese bodywork therapy that translates to "finger pressure". The practitioner uses thumbs, fingers, palms, elbows, and feet to apply rhythmic pressure to specific energy pathways (meridians) in the body. It aims to balance the flow of vital energy and relieve muscle tension.
 
 ## 3. Breathwork
 
@@ -85,6 +86,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Spirit animal (Animal de Poder)** : A guiding animal spirit or totem representing personal traits, protection, and wisdom in Indigenous traditions.
 - **Talking circles** : A communal Indigenous practice where participants share stories or wisdom in a respectful, egalitarian setting.
 - **Sun Dance** : Plains tribes’ ceremonial dance and sacrifice for renewal.
+- **Moon Dance** : Sacred, women-centered ceremony that involves gathering and dancing under the full moon for four consecutive nights.
 
 ## 5. Western Philosophies
 
