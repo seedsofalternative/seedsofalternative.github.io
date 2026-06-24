@@ -72,8 +72,8 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Tummo (Inner Fire)** : Tibetan Buddhist practice combining breath retention and visualization to generate body heat and meditative focus.
 - **Box Breathing (Tactical Breathing)** : Used by Navy SEALs and athletes: Inhale (4 sec) → Hold (4 sec) → Exhale (4 sec) → Hold (4 sec). Enhances focus and stress management.
 - **4-7-8 Breathing** : Inhale (4 sec) → Hold (7 sec) → Exhale (8 sec). Promotes relaxation and sleep.
-- **Circular Breathing** : ****Continuous breathing without pauses, often used in shamanic and therapeutic practices to access deeper emotional states.
-- **Buteyko Breathing** : ****Focuses on reducing over-breathing (hyperventilation) to improve CO₂ tolerance, often used for asthma and anxiety.
+- **Circular Breathing** : Continuous breathing without pauses, often used in shamanic and therapeutic practices to access deeper emotional states.
+- **Buteyko Breathing** : Focuses on reducing over-breathing (hyperventilation) to improve CO₂ tolerance, often used for asthma and anxiety.
 
 ## 4. American Traditions
 
@@ -133,8 +133,8 @@ This article lists and categorizes the spiritual and introspection practices I c
 ## 7. Eastern Traditions and Philosophies
 
 - **Hinduism** : Diverse Indian religion with many gods, karma, and dharma, focused on liberation (Moksha).
-    - **Advaita Vedanta** : Hindu philosophy teaching "non-duality" (*all is One, Brahman*).
-    - **Ayurveda** (from the Sanskrit words ayur (life) and veda (science or knowledge)): Indian traditional medicine that balances mind, body, and spirit through diet, herbal remedies, exercise, meditation, breathing, and physical therapy.
+    - **Advaita Vedanta** : School of Hindu philosophy teaching non-duality (The ultimate reality (Brahman) and the individual soul (Atman) are one).
+    - **Ayurveda** (from the Sanskrit words ayur (life) and veda (science or knowledge): Indian traditional medicine that balances mind, body, and spirit through diet, herbal remedies, exercise, meditation, breathing, and physical therapy.
         - **Panchkarma** : Ayurvedic cleansing therapy using oils, massage, and herbs.
         - **Shirodhara** :  Ayurvedic treatment that involves slowly pouring warm oil onto the forehead.
     - **Hare Krishna** : Devotional movement (*bhakti yoga*) chanting Krishna’s names (Guru Srila Prabhupada).
@@ -151,7 +151,9 @@ This article lists and categorizes the spiritual and introspection practices I c
     - **Bikram (Hot Yoga)** : Fixed 26-posture sequence in 40°C heat.
     - **Restorative Yoga**: Relaxation with long-held, supported poses.
     - **Jivamukti Yoga** : Ethical living, chanting, and vigorous Vinyasa.
-    - **Sivananda Yoga** : Traditional 12-pose sequence, breathing, and relaxation.
+    - **Sivananda Yoga** : Classical branch of Hatha yoga, including traditional 12-pose sequence, breathing, and relaxation.
+    - **Satyananda Yoga (Bihar tradition)** : Classical branch of Hatha yoga from the Bihar school of yoga, famous for developping Yoga Nidra (state of "conscious sleep").
+    - **Integral Yoga** : Structured synthesis of six classical branches of Yoga: Hatha, Raja, Bhakti, Karma, Jnana, and Japa Yoga.
     - **Anusara Yoga** : Heart-opening, alignment, and positive philosophy.
     - **Aerial Yoga** : Silk hammocks for suspension.
     - **AcroYoga** : Partner work yoga.
@@ -211,7 +213,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Ecstatic** D**ance** : A type of dance that focuses on freedom of movement and self expression, usually held as dance events with conscious community values (no alcohol or drugs allowed).
 - **Authentic Movement** : Unstructured, mindful movement expression.
 - **Somatic Stretching** : Release of muscular tension through gentle movement and an awareness of how your muscles feel in various positions and movements
-- **Somatic Experiencing (SE)** : ****Body-oriented therapy to help individuals process and release trauma-related tension stored in the body (aims to treat PTSD and other mental and emotional health issues).
+- **Somatic Experiencing (SE)** : Body-oriented therapy to help individuals process and release trauma-related tension stored in the body (aims to treat PTSD and other mental and emotional health issues).
 - **Trauma & tension Releasing Exercises (TRE)** : Series of exercises that activate a natural reflex of shaking or vibrating to release deep muscular tension, stress and trauma.
 - **Tamalpa Life Art Process** : Psychosomatic practice that uses dancing, drawing, and narrating to contribute to creativity, personal growth, and healing.
 - **Sadhu Board Therapy** : Consists of standing barefoot on a plank with nails to stimulate energy pathways and increase wellness.
@@ -229,7 +231,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 
 - **Journaling** : Practice of regularly recording thoughts, feelings, experiences, and reflections in a notebook, journal, or digital platform. It's a way to document your life and inner world, and can be a useful tool for personal reflection, self-discovery, and mental well-being.
 - **Vision board** (also known as **dream map**, **goal collage**, **mapa de sueños**) : Visual collage of images, words, and symbols representing your goals, dreams, and desires, designed to focus your mind, boost motivation, and attract what you want into your life through the power of visualization and the *law of attraction*. It’s a creative way to set intentions for the future. The idea is that by visually representing your dreams, you are reinforcing your commitment to them.
-- **Neuro-Linguistic Programming (NLP)** : Psychological approach that studies the connection between neurology (how we think), language (how we communicate), and behavioral ****patterns (how we act), with the goal of reprogramming unconscious habits to achieve personal growth, better communication, and peak performance.
+- **Neuro-Linguistic Programming (NLP)** : Psychological approach that studies the connection between neurology (how we think), language (how we communicate), and behavioral patterns (how we act), with the goal of reprogramming unconscious habits to achieve personal growth, better communication, and peak performance.
 - **Ikigai** : Japanese concept meaning *"reason for being"*—the intersection of what you **love**, what you’re **good at**, what the **world needs**, and what you can be **paid for**, creating a life of purpose and joy.
 - **Biohacking** : Enhancing the body’s ability to function at peak performance—and maybe even extend one’s lifespan (include meditation, intermittent fasting), quest for better biological function.
 
