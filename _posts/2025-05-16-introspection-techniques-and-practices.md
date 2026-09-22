@@ -48,6 +48,8 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Pranic Healing** : Energy healing technique using prana (life force) for cleansing. It is based on the idea that the body has the ability to heal itself.
 - **Sekhem** : Egyptian energy healing similar to Reiki.
 - **Shiatsu** : Japanese bodywork therapy that translates to "finger pressure". The practitioner uses thumbs, fingers, palms, elbows, and feet to apply rhythmic pressure to specific energy pathways (meridians) in the body. It aims to balance the flow of vital energy and relieve muscle tension.
+- **Ku Nye** (also spelled **Kunye**) : Traditional Tibetan massage, the external therapy branch of Sowa Rigpa (Tibetan medicine). It combines oil application (*ku*), massage and pressure on specific points along the body's subtle channels (*nye*), and a fixing stage using compresses or herbal applications, to balance the three humours and release energetic blockages.
+- **Vortex Healing** : Energy healing modality founded by Ric Weinman, said to channel "divine" energy through a lineage transmission to clear emotional, karmic, and energetic blockages in the body and consciousness.
 
 ## 3. Breathwork
 
@@ -74,6 +76,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **4-7-8 Breathing** : Inhale (4 sec) → Hold (7 sec) → Exhale (8 sec). Promotes relaxation and sleep.
 - **Circular Breathing** : Continuous breathing without pauses, often used in shamanic and therapeutic practices to access deeper emotional states.
 - **Buteyko Breathing** : Focuses on reducing over-breathing (hyperventilation) to improve CO₂ tolerance, often used for asthma and anxiety.
+- **Cardiac Coherence** (**Heart Coherence**) : Slow, regular breathing at roughly six breaths per minute (5 sec inhale → 5 sec exhale, often practised 5 minutes, 3 times a day) to synchronise heart rate variability with the breath. It is used to regulate the autonomic nervous system, lower stress, and improve emotional balance.
 
 ## 4. American Traditions
 
@@ -157,6 +160,7 @@ This article lists and categorizes the spiritual and introspection practices I c
     - **Anusara Yoga** : Heart-opening, alignment, and positive philosophy.
     - **Aerial Yoga** : Silk hammocks for suspension.
     - **AcroYoga** : Partner work yoga.
+    - **Chromatic Yoga** : Contemporary approach blending yoga asana with colour (*chroma*) work — each practice is themed around a colour associated with a chakra or an emotional quality, combining sequencing, visualisation, and sometimes coloured light to influence mood and energy.
     - **Chakra sadhana** : Yogic and tantric practice focused on awakening and harmonizing the seven vital energy centers (chakras) along the spine. It combines postures (asanas), breathwork (pranayama), visualization, and mantra chanting to clear energy blockages and promote physical and emotional well-being.
 - **Buddhism** : Spiritual tradition founded by the Buddha (Siddhartha Gautama) that teaches freedom from suffering (*dukkha*) through mindfulness, ethical living, and wisdom—culminating in enlightenment.
     - **Mahayana** : "Great Vehicle," focuses on universal enlightenment (*bodhisattva* path).
@@ -205,6 +209,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Guided analytical meditation** : Following a specific narrative about a particular concept (such as emptiness, impermanence, compassion) and use intellectual analysis in order to gain an intuitive understanding of the object.
 - **Tonglen meditation** ("giving and taking”) : Tibetan Buddhist meditation technique where one visualizes breathing in the suffering of others and breathing out love and kindness to those in need. The goal is to cultivate compassion.
 - **Transcendental meditation** : Silent, mantra-based meditation technique to promote deep relaxation, reduce stress, and enhance clarity of mind (Maharishi Mahesh Yogi).
+- **Inner Silence** (**Antar Mouna**) : Yogic meditation from the Satyananda tradition practised in stages — witnessing sense perceptions, then spontaneous thoughts, then deliberately created and dismissed thoughts — until the mind settles into thought-free awareness. Used therapeutically to release suppressed material from the unconscious.
 - **Dynamic meditation** : Active, cathartic form of meditation designed by Osho to release stress and mental chatter through intense physical movement, chaotic breathing, and emotional expression—followed by silence.
 
 ## 10. Somatic and Body-Centered Techniques
@@ -225,6 +230,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Bioenergetic Therapy** : Body-centered psychotherapy that combines breathwork, movement, and emotional expression to release physical tension and unresolved emotional trauma, aiming to restore energy flow and improve mental and physical well-being.
 - **Hakomi** : Gentle, mindfulness-based therapy that uses body awareness to uncover and heal unconscious emotional wounds. It helps you explore deep-seated beliefs by noticing how your body reacts in the present moment.
 - **Latihan** : Physical workouts, educational study drills, or the deep spiritual and moving meditation practice originating from the Subud tradition in Indonesia.
+- **Polyvagal Theory** : Framework developed by neuroscientist Stephen Porges describing how the vagus nerve governs three autonomic states — social engagement (ventral vagal), fight-or-flight (sympathetic), and shutdown (dorsal vagal). It underpins many trauma-informed practices, which use breath, voice, movement, and safe relationship to help the nervous system return to a regulated state.
 
 
 ## 11. Introspection and Self-Development Tools
@@ -233,6 +239,8 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Vision board** (also known as **dream map**, **goal collage**, **mapa de sueños**) : Visual collage of images, words, and symbols representing your goals, dreams, and desires, designed to focus your mind, boost motivation, and attract what you want into your life through the power of visualization and the *law of attraction*. It’s a creative way to set intentions for the future. The idea is that by visually representing your dreams, you are reinforcing your commitment to them.
 - **Neuro-Linguistic Programming (NLP)** : Psychological approach that studies the connection between neurology (how we think), language (how we communicate), and behavioral patterns (how we act), with the goal of reprogramming unconscious habits to achieve personal growth, better communication, and peak performance.
 - **Ikigai** : Japanese concept meaning *"reason for being"*—the intersection of what you **love**, what you’re **good at**, what the **world needs**, and what you can be **paid for**, creating a life of purpose and joy.
+- **Enneagram** : Personality system mapping nine interconnected types, each defined by a core motivation, fear, and habitual pattern of attention. Rather than boxing you in, it is used introspectively to recognise your automatic coping strategy and the directions in which you move under stress and in growth.
+- **Myers-Briggs Type Indicator (MBTI)** : Self-report questionnaire inspired by Jung's theory of psychological types, sorting people into sixteen types along four dichotomies (Introversion/Extraversion, Sensing/Intuition, Thinking/Feeling, Judging/Perceiving). Widely used for self-reflection and team communication, though contested as a scientific instrument.
 - **Biohacking** : Enhancing the body’s ability to function at peak performance—and maybe even extend one’s lifespan (include meditation, intermittent fasting), quest for better biological function.
 
 ## 12. Psychotherapies
@@ -263,6 +271,7 @@ This article lists and categorizes the spiritual and introspection practices I c
     - **Sharing circle** (also known as **Heart sharing circle** or **circle of words)** : People sitting in a circle and sharing, one at a time, how they are feeling.
 - **Integrative & Holistic Therapies**
     - **Integrative Psychotherapy** : Combines techniques from multiple approaches.
+    - **Mindfulness-Based Stress Reduction (MBSR)** : Eight-week secular programme created by Jon Kabat-Zinn at the University of Massachusetts, teaching body scan, sitting meditation, and gentle yoga to reduce stress, chronic pain, and anxiety. It is the clinical template from which most modern mindfulness courses derive.
     - **Mindfulness-Based Cognitive Therapy (MBCT)** : Blends CBT with mindfulness to prevent depression relapse.
     - **Transpersonal Therapy (Carl Jung)** : Incorporates spiritual and transcendent aspects of human experience.
 - **Family & Relationship Therapies**
@@ -276,6 +285,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Other Specialized Therapies**
     - **Solution-Focused Brief Therapy (SFBT)** : Goal-oriented, focuses on solutions rather than problems.
     - **Interpersonal Therapy (IPT)** : Addresses interpersonal issues and improves relationships.
+    - **Equine Therapy** (**Equine-Assisted Therapy**) : Animal-assisted approach in which grooming, leading, and simply being present with horses becomes the therapeutic medium. Because horses mirror the emotional state and body language of the person handling them, they give immediate, non-verbal feedback — useful for trauma, addiction, anxiety, and for rebuilding trust and boundaries.
     - **Art Therapy / Music Therapy** : Uses creative expression for emotional healing.
 
 ## 13. Alternative and Esoteric Healing Practices
@@ -284,6 +294,8 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Past Life Regression**: Hypnosis to explore previous incarnations.
 - **Angel Walks** : Spiritually enriching, serene celebration that invites deep connection to the Divine, to unity, and to love.
 - **Biomagnetic Therapy** : Natural therapy that proposes re-establishing the normal internal cellular environment through the use of pairs of magnets of medium intensity that seek to equalize the organism’s pH level.
+- **Intuitive Reading** : Session in which a practitioner tunes into a person's energy — with or without cards, objects, or touch — and relays impressions, images, and guidance said to come from intuition rather than from learned divination systems. Used as a mirror for questions the client is already carrying.
+- **L-Rods (Energy Dowsing)** : Pair of L-shaped metal rods held loosely in each hand, which cross or swing apart in response to the dowser's questions. Traditionally used to locate water and buried objects, they are also used in energy work to trace ley lines, map a person's aura, or detect "geopathic stress" in a home. The movement is generally explained by the ideomotor effect — unconscious micro-movements of the hands.
 - **Aura Reading** : Practice of intuitively perceiving or sensing the energy field (colors, vibrations, or patterns) surrounding a person, believed to reflect their emotional, spiritual, or physical state.
 - **Grounding** : Walking barefoot on wet ground to realign our magnetic field with the Earth magnetic field.
 - **Numerology** : Method of divination that uses numbers to symbolize the vibrational patterns of your life.
