@@ -1,7 +1,24 @@
 services:
     jekyll:
-        image: jekyll/jekyll:latest
-        command: jekyll serve --force_polling
+        # Ruby 3.3 mirrors the host toolchain; the Gemfile pins github-pages (Jekyll 3.10),
+        # which is what GitHub Pages actually builds this site with.
+        image: ruby:3.3
+        working_dir: /srv/jekyll
+        # Match the host user so _site/, .jekyll-cache/ and vendor/ stay writable outside Docker.
+        user: "1000:1000"
+        environment:
+            # Gems live in the bind mount: writable as uid 1000 and cached across runs.
+            GEM_HOME: /srv/jekyll/vendor/bundle
+            BUNDLE_PATH: /srv/jekyll/vendor/bundle
+            # Keep in sync with "BUNDLED WITH" at the end of Gemfile.lock.
+            BUNDLER_VERSION: 4.0.12
+            # uid 1000 has no passwd entry in the image; give bundler a writable HOME.
+            HOME: /tmp
+            PATH: /srv/jekyll/vendor/bundle/bin:/usr/local/bundle/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+        command: >
+            sh -c "gem install bundler -v 4.0.12 --no-document --conservative &&
+                   bundle install &&
+                   bundle exec jekyll serve --host 0.0.0.0 --force_polling"
         ports:
             - 4000:4000
         volumes:

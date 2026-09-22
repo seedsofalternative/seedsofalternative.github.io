@@ -47,8 +47,12 @@ bundle exec jekyll serve --watch
 ### With Docker
 
 ```bash
-docker-compose up
+docker compose up
 ```
+
+The container runs the same `github-pages` gem set GitHub Pages deploys with, so the preview
+matches production. The first run takes a few minutes while native gems compile; they are
+cached in `vendor/` (gitignored) so later runs start in seconds.
 
 Site available at `http://localhost:4000`.
 
