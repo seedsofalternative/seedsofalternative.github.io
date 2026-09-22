@@ -2,7 +2,7 @@
 layout: post
 title:  "The Way Out of Suffering"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/way_out_of_suffering/way-out.jpg
 featured: false
 tags: [buddhism, liberation, vipassana, mahayana]

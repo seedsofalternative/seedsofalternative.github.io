@@ -2,7 +2,7 @@
 layout: post
 title:  "The Three Poisons : Delusions of the Mind"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/delusions/3poisons.webp
 featured: false
 tags: [buddhism, mind, suffering, three-poisons]

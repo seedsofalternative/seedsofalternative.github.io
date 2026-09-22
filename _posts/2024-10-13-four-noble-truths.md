@@ -2,7 +2,7 @@
 layout: post
 title:  "The Four Noble Truths"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/four-noble-truths/buddha_teaching.webp
 featured: false
 tags: [buddhism, suffering, liberation, noble-eightfold-path]

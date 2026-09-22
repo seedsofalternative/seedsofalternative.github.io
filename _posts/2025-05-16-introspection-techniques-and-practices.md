@@ -210,7 +210,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 ## 10. Somatic and Body-Centered Techniques
 
 - **Rio Abierto** : A spiritual body-mind approach that integrates therapy and creativity to develop awareness, listening and attention. It blends dance, music, breathwork, relaxation and expressive exercises to foster physical, emotional, mental, and spiritual well-being.
-- **Ecstatic** D**ance** : A type of dance that focuses on freedom of movement and self expression, usually held as dance events with conscious community values (no alcohol or drugs allowed).
+- **Ecstatic Dance** : A type of dance that focuses on freedom of movement and self expression, usually held as dance events with conscious community values (no alcohol or drugs allowed).
 - **Authentic Movement** : Unstructured, mindful movement expression.
 - **Somatic Stretching** : Release of muscular tension through gentle movement and an awareness of how your muscles feel in various positions and movements
 - **Somatic Experiencing (SE)** : Body-oriented therapy to help individuals process and release trauma-related tension stored in the body (aims to treat PTSD and other mental and emotional health issues).

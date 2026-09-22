@@ -2,7 +2,7 @@
 layout: post
 title:  "Influential Buddhist Teachers"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/buddhist_teachers/nagarjuna.webp
 featured: false
 tags: [buddhism, teachers, history, spirituality]

@@ -1,0 +1,34 @@
+# Homepage sections, in navigation order.
+# Each entry maps a menu label to the post category it collects and the page it links to.
+# A section with no posts is not rendered on the homepage.
+- title: Society
+  category: society
+  url: /society
+
+- title: Sustainability
+  category: sustainability
+  url: /sustainability
+
+- title: Wellbeing
+  category: wellbeing
+  url: /wellbeing
+
+- title: Psychology
+  category: psychology
+  url: /psychology
+
+- title: Spirituality
+  category: spirituality
+  url: /spirituality
+
+- title: Productivity
+  category: productivity
+  url: /productivity
+
+- title: Trek Reports
+  category: trek-reports
+  url: /trek-reports
+
+- title: Book Summaries
+  category: books
+  url: /books

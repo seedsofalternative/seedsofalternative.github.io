@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Happiness ?"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/happiness/lotus.jpg
 featured: false
 tags: [buddhism, happiness, wellbeing, inner-peace]

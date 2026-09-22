@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art of Meditation"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/meditation/stone-stacking.jpg
 featured: false
 tags: [buddhism, meditation, mindfulness, spirituality]

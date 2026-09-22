@@ -52,10 +52,9 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
+# Pagination is disabled: the homepage lists posts by section (see _data/sections.yml),
+# so there is no paginated feed to generate.
+
 # Other
 markdown: kramdown
 

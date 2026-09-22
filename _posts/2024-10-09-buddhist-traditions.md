@@ -2,7 +2,7 @@
 layout: post
 title:  "The different Buddhist Traditions"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/buddhist_traditions/buddhist_traditions.png
 featured: false
 tags: [buddhism, theravada, mahayana, vajrayana, spirituality]

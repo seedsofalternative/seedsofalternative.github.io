@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding Non-dual Awareness : the True Nature of our Mind"
 author: pierre
-categories: [ buddhism ]
+categories: [ spirituality, buddhism ]
 image: assets/images/non-dual-awareness/non-dual-awareness.webp
 featured: false
 tags: [buddhism, non-duality, consciousness, meditation]
