@@ -146,6 +146,7 @@ This article lists and categorizes the spiritual and introspection practices I c
 - **Yoga** : Holistic practice from ancient India that combines physical postures (*asanas*), breath control (*pranayama*), and meditation to unite body, mind, and spirit. There are many different styles of yoga :
     - **Hatha yoga** : Balance of body and mind through asanas and breath control.
     - **Ashtanga yoga** : A structured, vigorous sequence of poses linked with breath (Vinyasa).
+    - **Black Lotus Yoga** : Contemporary vinyasa system created by Ty Landrum, who developed it out of his own Ashtanga practice during the pandemic lockdowns. It unfolds through six breath-led sequences, each available in three shades of increasing intensity (white, gray, and black), practised Mysore-style with a strong emphasis on internal alignment, bandha and mudra.
     - **Iyengar Yoga** : Precision, alignment, and use of props (blocks, straps).
     - **Kundalini Yoga** : Awakening spiritual energy (kundalini) through breath, chanting, and dynamic movements.
     - **Yin Yoga** : Deep stretching, long-held passive poses (3-5 minutes).
